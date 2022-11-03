@@ -96,7 +96,7 @@ print("sorting", list1)
 # list.reverse()	Objects in the list are reversed in place.
 # list.sort([func])	Objects in the list are reversed in place.
 #
-# List Comprehension
+#
 # List comprehension is a simple and elegant way to make a new list out of an existing list in Python. An expression followed by a for statement enclosed in square brackets constitutes a list comprehension.
 #
 # Example:
