@@ -108,4 +108,5 @@ print(sample)
 sample = []
 for i in range(5):
    sample.append(2 ** i)
+print(sample)
 # both will have sane output
