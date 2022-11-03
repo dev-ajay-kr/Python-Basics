@@ -1,10 +1,9 @@
-a="int"         #string Datatype
+a = "int"  # string Datatype
 print(a)
-b=2.12           #float DataType
+b = 2.12  # float DataType
 print(b)
-c=2          #int datatype
+c = 2  # int datatype
 print(c)
-
 
 ###################################
 print("This is a string")
@@ -19,5 +18,3 @@ print("This is a string")
 print('This is a string')
 print(type('This is a string'))
 #################################
-
-
