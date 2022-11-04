@@ -1,8 +1,6 @@
 
 ### There is no json support in python 3.11 later or prior works fine
 #- I have only python 3.11
-
-
 # import json
 # json.dumps(['foo', {'bar': ('baz', None, 1.0, 2)}])
 #
