@@ -3,18 +3,17 @@ import numpy as np
 
 ypoints = np.array([3, 8, 1, 10])
 
-plt.plot(ypoints, marker = 'o')
-plt.show()
-
-
-ypoints = np.array([3, 8, 1, 10])
-
-plt.plot(ypoints, '*:g')   # (points, 'style:color'
+plt.plot(ypoints, marker='o')
 plt.show()
 
 ypoints = np.array([3, 8, 1, 10])
 
-plt.plot(ypoints, marker = 'o', ms = 20, mec = 'r')   #ms is marker size mec markeredge color
+plt.plot(ypoints, '*:g')  # (points, 'style:color'
+plt.show()
+
+ypoints = np.array([3, 8, 1, 10])
+
+plt.plot(ypoints, marker='o', ms=20, mec='r')  # ms is marker size mec markeredge color
 plt.show()
 
 ##
@@ -68,5 +67,3 @@ plt.show()
 # 'y'	Yellow
 # 'k'	Black
 # 'w'	White
-
-

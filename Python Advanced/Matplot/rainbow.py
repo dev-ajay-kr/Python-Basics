@@ -9,8 +9,8 @@ plt.axis("equal")
 ax.set(xlim=(-10, 10), ylim=(-10, 10))
 
 for i in range(0, 7):
-   rainbow = ['violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
-   c = plt.Circle((0, 0), 7-i, fill=True, color=rainbow[i])
-   ax.add_artist(c)
+    rainbow = ['violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
+    c = plt.Circle((0, 0), 7 - i, fill=True, color=rainbow[i])
+    ax.add_artist(c)
 
 plt.show()
