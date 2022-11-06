@@ -14,15 +14,6 @@ else:
     print("No items left.")
 
 
-
-
-
-
-
-
-
-
-
 ############WHILE loop
 i = 1
 while i < 11:
@@ -31,16 +22,6 @@ while i < 11:
   i+=1
 else:
     print(i,"has become lesss")
-
-
-
-
-
-
-
-
-
-
 
 
 #### ----------Nested Loop -----------######
