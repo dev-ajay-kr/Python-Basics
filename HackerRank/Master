@@ -1,0 +1,457 @@
+print("Hello, World!")
+# ==========================
+if __name__ == '__main__':
+    n = int(input().strip())
+    if n%2 == 0:
+        if n in range(2, 6):
+            print('Not Weird')
+            exit()
+        if n in range(6, 21):
+            print('Weird')
+            exit()
+        if n > 20:
+            print('Not Weird')
+            exit()
+    else:
+        print('Weird')
+# =================================================
+a = int(input())
+b = int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+# ========================================================
+a = int(input())
+b = int(input())
+print(a//b)
+print(a/b)
+# ==============================================================
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(0, n):
+        print(i**2)
+# =============================================================
+def is_leap(year):
+    leap = False
+    if year % 400 == 0:
+        leap = True
+    else:
+        if year % 100 != 0 and year % 4 == 0:
+            leap = True
+    return leap
+# ===============================================================
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(1, n+1):
+        print(i, end='')
+# =============================================================================
+if __name__ == '__main__':
+    x = [x for x in range(int(input()) + 1)]
+    y = [x for x in range(int(input()) + 1)]
+    z = [x for x in range(int(input()) + 1)]
+    n = int(input())
+    lis = [[i,j,k] for i in x for j in y for k in z]
+    newlis = []
+    for i in lis:
+        if sum(i)!= n:
+            newlis.append(i)
+    print(newlis)
+# ===================================================================
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    arr = set(arr)
+    arr.remove(max(arr))
+    print(max(arr))
+# ============================================================================
+if __name__ == '__main__':
+    a = [[input(), float(input())] for _ in range(int(input()))]
+    s = sorted(set([i[1] for i in a]))
+    for name in sorted(x[0] for x in a if x[1] == s[1]):
+        print(name)
+# =================================================
+
+# Nested Lists
+
+
+if __name__ == '__main__':
+    n = int(input())
+    std = {}
+    for _ in range(n):
+        name, *mark = input().split()
+        scr = list(map(float, mark))
+        std[name] = scr
+    quee_name = input()
+    vlu = sum(std[quee_name]) / 3
+    print('%.2f' % vlu)
+# ===============================================================
+n, m = list(map(int, input().split()))
+for i in range(1, int((n+1)/2)):
+    print(('.|.'*(2*i - 1)).center(m, '-'))
+print('WELCOME'.center(m, '-'))
+for i in range(int((n-1)/2), 0, -1):
+    print(('.|.'*(2*i - 1)).center(m, '-'))
+# ================================================================
+
+
+
+if __name__ == '__main__':
+    x = [x for x in range(int(input()) + 1)]
+    y = [x for x in range(int(input()) + 1)]
+    z = [x for x in range(int(input()) + 1)]
+    n = int(input())
+    lis = [[i,j,k] for i in x for j in y for k in z]
+    newlis = []
+    for i in lis:
+        if sum(i)!= n:
+            newlis.append(i)
+    print(newlis)
+# -------------------------------------------
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    arr = set(arr)
+    arr.remove(max(arr))
+    print(max(arr))
+# ==============================
+if __name__ == '__main__':
+    a = [[input(), float(input())] for _ in range(int(input()))]
+    s = sorted(set([i[1] for i in a]))
+    for name in sorted(x[0] for x in a if x[1] == s[1]):
+        print(name)
+# ################################################
+if __name__ == '__main__':
+    n = int(input())
+    std = {}
+    for _ in range(n):
+        name, *mark = input().split()
+        scr = list(map(float, mark))
+        std[name] = scr
+    quee_name = input()
+    vlu = sum(std[quee_name]) / 3
+    print('%.2f' % vlu)
+# 
+
+
+
+
+
+
+
+
+
+
+n, m = list(map(int, input().split()))
+for i in range(1, int((n+1)/2)):
+    print(('.|.'*(2*i - 1)).center(m, '-'))
+print('WELCOME'.center(m, '-'))
+for i in range(int((n-1)/2), 0, -1):
+    print(('.|.'*(2*i - 1)).center(m, '-'))
+
+# =================================================================
+def print_formatted(number):
+    width = len(bin(number)) - 2
+    for i in range(1, number + 1):
+        print('{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}'.format(i, width=width))
+
+# ======================================================================
+
+def print_rangoli(size):
+    for i in range(size):
+        s = '-'.join(chr(ord('a')+size-1-j) for j in range(i+1))
+        print((s+s[::-1][1:]).center(4*size-3, '-'))
+    for i in range(size -1):
+        s = '-'.join(chr(ord('a')+size-1-j) for j in range(size-1-i))
+        print((s+s[::-1][1:]).center(4*size-3, '-'))
+# ========================================================================================
+
+
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+def solve(s):
+    return ' '.join(word.capitalize() for word in s.split(' '))
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    s = input()
+
+    result = solve(s)
+
+    fptr.write(result + '\n')
+
+    fptr.close()
+
+# ===================================
+def minion_game(string):
+    ply1, ply2 = 0, 0
+    strlen = len(string)
+    for i in range(strlen):
+        if string[i] in 'AEIOU':
+            ply1 += strlen - i
+        else:
+            ply2 += strlen - i
+    if ply1 > ply2:
+        print('Kevin', ply1)
+    elif ply2 > ply1:
+        print('Stuart', ply2)
+    else:
+        print('Draw')
+
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
+# ==============================
+li = []
+n = int(input())
+for _ in range(n):
+    ope, *arg = input().split()
+    arg_lis = list(map(int, arg))
+    if ope == 'print':
+        print(li)
+    else:
+        getattr(li, ope)(*arg_lis)
+
+# =============================================
+def swap_case(s):
+    return s.swapcase()
+
+if __name__ == '__main__':
+    s = input()
+    result = swap_case(s)
+    print(result)
+# =======================================================================
+def split_and_join(line):
+    # write your code here
+    line = line.split(' ')
+    line = '-'.join(line)
+    return line
+if __name__ == '__main__':
+    line = input()
+    result = split_and_join(line)
+    print(result)
+# =========================================
+def print_full_name(first, last):
+    print('Hello {} {}! You just delved into python.'.format(first, last))
+if __name__ == '__main__':
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
+# =============================
+def mutate_string(string, position, character):
+    return string[:position] + character + string[position + 1:]
+
+if __name__ == '__main__':
+    s = input()
+    i, c = input().split()
+    s_new = mutate_string(s, int(i), c)
+    print(s_new)
+# ============================
+import re
+def count_substring(string, sub_string):
+    return len(re.findall('(?='+sub_string+')',string))
+
+if __name__ == '__main__':
+    string = input().strip()
+    sub_string = input().strip()
+    
+    count = count_substring(string, sub_string)
+    print(count)
+# =======================================
+import re
+def count_substring(string, sub_string):
+    return len(re.findall('(?='+sub_string+')',string))
+
+if __name__ == '__main__':
+    string = input().strip()
+    sub_string = input().strip()
+    
+    count = count_substring(string, sub_string)
+    print(count)
+# ==================================
+s = input()
+print(any([c.isalnum() for c in s]))
+print(any([c.isalpha() for c in s]))
+print(any([c.isdigit() for c in s]))
+print(any([c.islower() for c in s]))
+print(any([c.isupper() for c in s]))
+# ====================================
+#Replace all ______ with rjust, ljust or center. 
+
+thickness = int(input()) #This must be an odd number
+c = 'H'
+
+#Top Cone
+for i in range(thickness):
+    print((c*i).rjust(thickness-1)+c+(c*i).ljust(thickness-1))
+
+#Top Pillars
+for i in range(thickness+1):
+    print((c*thickness).center(thickness*2)+(c*thickness).center(thickness*6))
+
+#Middle Belt
+for i in range((thickness+1)//2):
+    print((c*thickness*5).center(thickness*6))    
+
+#Bottom Pillars
+for i in range(thickness+1):
+    print((c*thickness).center(thickness*2)+(c*thickness).center(thickness*6))    
+
+#Bottom Cone
+for i in range(thickness):
+    print(((c*(thickness-i-1)).rjust(thickness)+c+(c*(thickness-i-1)).ljust(thickness)).rjust(thickness*6))
+# ==========================================================
+import textwrap
+def wrap(string, max_width):
+    return textwrap.fill(string, max_width)
+
+if __name__ == '__main__':
+    string, max_width = input(), int(input())
+    result = wrap(string, max_width)
+    print(result)
+# ====================================
+import textwrap
+def merge_the_tools(string, k):
+    li = textwrap.wrap(string, k)
+    for i in li:
+        print(''.join(sorted(set(i), key=i.index)))
+
+
+if __name__ == '__main__':
+    string, k = input(), int(input())
+    merge_the_tools(string, k)
+# =========================================================
+a = int(input())
+b = int(input())
+print(a//b)
+print(a%b)
+print(divmod(a, b))
+# =====================================
+a = int(input())
+b = int(input())
+c = int(input())
+print(pow(a,b))
+print(pow(a,b,c))
+# ====================================================
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print(pow(a,b)+pow(c,d))
+
+
+# ==============
+import calendar
+m, d, y = map(int, input().split())
+print(calendar.day_name[calendar.weekday(y, m, d)].upper())
+
+# =========================================
+_, sub = map(int, input().split())
+li_sub = [map(float, input().split()) for _ in range(sub)]
+for mr_sub in zip(*li_sub):
+    print(sum(mr_sub)/sub)
+
+# ==========================================
+x, k = map(int, input().split())
+p = eval(input())
+print('True' if p==k else 'False')
+# ========================================================
+n, integers = int(input()), input().split()
+print(all(map(lambda x: int(x)>0, integers)) and any(map(lambda x: x==x[::-1], integers)))
+# //////////////////////////////////////////////////
+def average(array):
+    return sum(set(array))/len(set(array))
+
+if __name__ == '__main__':
+    n = int(input())
+    arr = list(map(int, input().split()))
+    result = average(arr)
+    print(result)
+# ===================================================
+from itertools import product
+
+a = list(map(int, input().split()))
+b = list(map(int, input().split()))
+print(*product(a, b))
+# ===========================================================
+x = input()
+shoes = input().split()
+n = input()
+price = []
+
+for i in range(int(n)):
+    customer = input().split()
+    if customer[0] in shoes:
+        shoes.remove(customer[0])
+        price.append(int(customer[1]))
+        
+print(sum(price))
+
+'''
+from collections import Counter
+_ = input()
+csize = dict(Counter(input().split()))
+s = 0
+
+for _ in range(int(input())):
+    size, price = input().split()
+    if (size in csize) and (csize[size] > 0) :
+        csize[size] = csize[size] - 1
+        s += int(price)
+
+print(s)
+'''
+# =====================================================================================================
+from itertools import permutations
+
+st, n = input().split()
+li = list(permutations(sorted(st), int(n)))
+for i in li:
+    print(''.join(i))
+# ============================================
+import cmath as cm
+z = complex(input())
+print(abs(z))
+print(cm.phase(z))
+# =====================================================================
+from collections import defaultdict
+
+n, m = map(int, input().split())
+d = defaultdict(list)
+[d[input()].append(i+1) for i in range(n)]
+
+for _ in range(m):
+    word = d[input()]
+    print(*word) if word else print(-1)
+
+
+'''
+n, m = map(int, input().split())
+d = defaultdict(lambda: -1)
+
+for i in range(1, n + 1):
+    word = input()
+    d[word] = d[word] + ' ' + str(i) if word in d else str(i)
+print(d)
+for _ in range(m):
+    print(d[input()])
+ '''
+# ====================================================================================================
+T = int(input())
+
+for i in range(T):
+    try:
+        x, y = map(int, input().split())
+        print(x//y)
+    except Exception as e:
+        print("Error Code:", e)
+# =====================================================================================================
+from collections import namedtuple
+N, students = int(input()), namedtuple('students', input())
+print(sum([int(students(*input().split()).MARKS) for i in range(N)])/N)
