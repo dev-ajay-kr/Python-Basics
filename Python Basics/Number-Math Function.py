@@ -1,8 +1,6 @@
 # This will import math module
 import math
 
-
-
 #
 #
 print("math.ceil(-23.11)", math.ceil(-23.11))
@@ -13,7 +11,7 @@ print("ceil(5.9)", math.ceil(5.9))
 # print("cmp(x, y)-1 if x: < y, 0 if x == y, or 1 if x > y", cmp(6,5))
 print("exp()x", math.exp(100))
 print("	ceil(x)", math.fabs(7))
-print("pow (2,2)", math.pow(2,2))
+print("pow (5,2)", math.pow(5,2))
 math.sqrt(144)
 
 '''### other imp functiion

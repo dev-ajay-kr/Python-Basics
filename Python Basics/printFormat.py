@@ -1,7 +1,7 @@
 print("The ship's name is 'Brave'.")
 # lines in comments are wromng
 
-# print('Cat's paws.')
+print(" Cat's paws. ")
 #
 print('The word "Ciao" means "hello" in Italian.')
 #
@@ -31,6 +31,9 @@ print("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturda
 weekday = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 for day in weekday:
     print(f'{day}\n')
+
+
+
 
 days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 print(*days, sep='\n\n')
