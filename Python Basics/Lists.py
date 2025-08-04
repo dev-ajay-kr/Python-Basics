@@ -1,43 +1,36 @@
-
-
-
-
-
 list1 = ['Prince', 'Grace', 1999, 1998]
-list2 = [1, 2, 3, 4, 5 ]
+list2 = [1, 2, 3, 4, 5]
 list3 = ["A1", "B2", "C3", "D4"]
-#Accessing
-print (list1[3])
-print (list2[1:4])
-#Updating
+# Accessing
+print(list1[3])
+print(list2[1:4])
+# Updating
 list1[2] = 2022
-print ("The new value of list[2] is", list1[2])
+print("The new value of list[2] is", list1[2])
 #################################################
-#Deleting
-del list1[0];
-print ("The list after deleting the index 0:")
-print (list1)
+# Deleting
+del list1[0]
+print("The list after deleting the index 0:")
+print(list1)
 ################################
-#------------OPerators in Python List_----------------#
+# ------------OPerators in Python List_----------------#
 ############################
 print(len(['a', 'b', 'c']))
 print([1, 2, 3] + [4, 5, 6])
 print(['Hey!'] * 4)
-print("3 in [1, 2, 3]   => to return boolean value\n and result id :-->",  3 in [1, 2, 3])
-for x in [1, 2, 3]: print (x)
-
+print("3 in [1, 2, 3]   => to return boolean value\n and result id :-->", 3 in [1, 2, 3])
+for x in [1, 2, 3]: print(x)
 
 ###########    Some more example for access
 
 list1 = ['code', 'Code', 'CODE!']
 print("list1 = ['code', 'Code', 'CODE!']")
-print(list1[2])    #accessing in a directio
-print(list1[-2])    #reversed
-print(list1[1:])     #before or after :
-
+print(list1[2])  # accessing in a directio
+print(list1[-2])  # reversed
+print(list1[1:])  # before or after :
 
 ##############################################
-#------------Methods
+# ------------Methods
 ##############################################
 
 list1 = ['Prince', 'Grace', "1990", "2000", "2022"]
@@ -75,7 +68,6 @@ print(list1)
 list1.sort()
 print("sorting", list1)
 
-
 # Function	              Description
 # cmp(list1, list2)	Elements from both lists are compared.
 # len(list)	This function returns the overall length of the list.
@@ -104,9 +96,8 @@ print("sorting", list1)
 sample = [2 ** i for i in range(5)]
 print(sample)
 
-
 sample = []
 for i in range(5):
-   sample.append(2 ** i)
+    sample.append(2 ** i)
 print(sample)
 # both will have sane output

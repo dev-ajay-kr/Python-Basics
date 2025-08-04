@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56eaa5d2-22e1-4ca3-be7e-9b99012379ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Find a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Find the Runner-Up Score!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Finding The Percentage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Jewels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Merge the tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Mutaion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Nestedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/String Split and Join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/String Validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Text Alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Text Wrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/Validating Postal Codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/What is Your Name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/evensum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/minions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HackerRank/sWAP cASE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Aspire/Assesment 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Aspire/Assessment 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/PrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/Zookeeper/rangeFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/abhishekerr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python Basics/tests.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HackerRank/Print Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../HackerRank/Print Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Basics/Conditionals-if-elses.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Basics/Conditionals-if-elses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Basics/Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Basics/Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Basics/Number-Math Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Basics/Number-Math Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Basics/printFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Basics/printFormat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Basics/printLines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Basics/printLines.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dev-ajay-kr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dev-ajay-kr/Python-Basics.git",
+    "accountId": "d968fa58-58b6-4c68-8a8b-b86798a37f1d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30nan6IhBChy9aevHPmRysiVZnl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "nextChapter",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Netflix Data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56eaa5d2-22e1-4ca3-be7e-9b99012379ca" name="Changes" comment="" />
+      <created>1754265954999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754265954999</updated>
+      <workItem from="1754265959445" duration="1380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
