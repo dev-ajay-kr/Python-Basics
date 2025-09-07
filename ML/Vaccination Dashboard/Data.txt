@@ -1,0 +1,2080 @@
+coverage-data.xlsx
+GROUP	CODE	NAME	YEAR	ANTIGEN	ANTIGEN_DESCRIPTION	COVERAGE_CATEGORY	COVERAGE_CATEGORY_DESCRIPTION	TARGET_NUMBER	DOSES	COVERAGE
+COUNTRIES	ABW	Aruba	2023	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1044	945	90.52
+COUNTRIES	ABW	Aruba	2023	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			90.52
+COUNTRIES	ABW	Aruba	2023	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1219	1008	82.69
+COUNTRIES	ABW	Aruba	2023	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			82.69
+COUNTRIES	ABW	Aruba	2023	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1468	1219	83.04
+COUNTRIES	ABW	Aruba	2023	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			83.04
+COUNTRIES	ABW	Aruba	2023	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	945	926	97.99
+COUNTRIES	ABW	Aruba	2023	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.99
+COUNTRIES	ABW	Aruba	2023	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	945	907	95.98
+COUNTRIES	ABW	Aruba	2023	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			95.98
+COUNTRIES	ABW	Aruba	2023	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_OTHER	Influenza other	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	FLU_RESIDENT	Influenza residents living in long term care facilities	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	HEPB3	HepB, 3rd dose	ADMIN	Administrative coverage	945	896	94.81
+COUNTRIES	ABW	Aruba	2023	HEPB3	HepB, 3rd dose	OFFICIAL	Official coverage			94.81
+COUNTRIES	ABW	Aruba	2023	HIB3	Hib, 3rd dose	ADMIN	Administrative coverage	945	907	95.98
+COUNTRIES	ABW	Aruba	2023	HIB3	Hib, 3rd dose	OFFICIAL	Official coverage			95.98
+COUNTRIES	ABW	Aruba	2023	HPV_FEM	HPV Female, final dose	ADMIN	Administrative coverage	693	442	63.78
+COUNTRIES	ABW	Aruba	2023	HPV_FEM	HPV Female, final dose	OFFICIAL	Official coverage			63.78
+COUNTRIES	ABW	Aruba	2023	HPV_MALE	HPV Male, final dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	HPV_MALE	HPV Male, final dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	IPV1	Inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage	945	926	97.99
+COUNTRIES	ABW	Aruba	2023	IPV1	Inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.99
+COUNTRIES	ABW	Aruba	2023	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	IPV2	Inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage	945	918	97.14
+COUNTRIES	ABW	Aruba	2023	IPV2	Inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			97.14
+COUNTRIES	ABW	Aruba	2023	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	MCV1	Measles-containing vaccine, 1st dose	ADMIN	Administrative coverage	1044	973	93.2
+COUNTRIES	ABW	Aruba	2023	MCV1	Measles-containing vaccine, 1st dose	OFFICIAL	Official coverage			93.2
+COUNTRIES	ABW	Aruba	2023	MCV2	Measles-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1219	989	81.13
+COUNTRIES	ABW	Aruba	2023	MCV2	Measles-containing vaccine, 2nd dose	OFFICIAL	Official coverage			81.13
+COUNTRIES	ABW	Aruba	2023	MENACYW_C	Meningococcal ACYW conjugate vaccine, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	MENACYW_C	Meningococcal ACYW conjugate vaccine, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	MENB_C	Meningococcal B vaccine, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	MENB_C	Meningococcal B vaccine, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	PAB	Protection at birth (PAB) against neonatal tetanus	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	PCV1	Pneumococcal conjugate vaccine, 1st dose	ADMIN	Administrative coverage	945	927	98.1
+COUNTRIES	ABW	Aruba	2023	PCV1	Pneumococcal conjugate vaccine, 1st dose	OFFICIAL	Official coverage			98.1
+COUNTRIES	ABW	Aruba	2023	PCV2	Pneumococcal conjugate vaccine, 2nd dose	ADMIN	Administrative coverage	945	916	96.93
+COUNTRIES	ABW	Aruba	2023	PCV2	Pneumococcal conjugate vaccine, 2nd dose	OFFICIAL	Official coverage			96.93
+COUNTRIES	ABW	Aruba	2023	PCV3	Pneumococcal conjugate vaccine, final dose	ADMIN	Administrative coverage	1044	953	91.28
+COUNTRIES	ABW	Aruba	2023	PCV3	Pneumococcal conjugate vaccine, final dose	OFFICIAL	Official coverage			91.28
+COUNTRIES	ABW	Aruba	2023	PERCV_PW	Pertussis-containing vaccine, pregnant women	ADMIN	Administrative coverage	945	8	0.85
+COUNTRIES	ABW	Aruba	2023	PERCV_PW	Pertussis-containing vaccine, pregnant women	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1044	945	90.52
+COUNTRIES	ABW	Aruba	2023	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			90.52
+COUNTRIES	ABW	Aruba	2023	POL3	Polio, 3rd dose	ADMIN	Administrative coverage	945	907	95.98
+COUNTRIES	ABW	Aruba	2023	POL3	Polio, 3rd dose	OFFICIAL	Official coverage			95.98
+COUNTRIES	ABW	Aruba	2023	RCV1	Rubella-containing vaccine, 1st dose	ADMIN	Administrative coverage	1044	973	93.2
+COUNTRIES	ABW	Aruba	2023	RCV1	Rubella-containing vaccine, 1st dose	OFFICIAL	Official coverage			93.2
+COUNTRIES	ABW	Aruba	2023	ROTA1	Rotavirus, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	ROTA1	Rotavirus, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	ROTAC	Rotavirus, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	ROTAC	Rotavirus, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1044	945	90.52
+COUNTRIES	ABW	Aruba	2023	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			90.52
+COUNTRIES	ABW	Aruba	2023	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1219	1008	82.69
+COUNTRIES	ABW	Aruba	2023	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			82.69
+COUNTRIES	ABW	Aruba	2023	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1468	1219	83.04
+COUNTRIES	ABW	Aruba	2023	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			83.04
+COUNTRIES	ABW	Aruba	2023	TYPHOID_CONJ	Typhoid conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	TYPHOID_CONJ	Typhoid conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	VAD1	Vitamin A, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	VAD1	Vitamin A, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2023	YFV	Yellow fever vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2023	YFV	Yellow fever vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1022	892	87.28
+COUNTRIES	ABW	Aruba	2022	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			87.28
+COUNTRIES	ABW	Aruba	2022	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1296	1092	84.26
+COUNTRIES	ABW	Aruba	2022	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			84.26
+COUNTRIES	ABW	Aruba	2022	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1434	1151	80.26
+COUNTRIES	ABW	Aruba	2022	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			80.26
+COUNTRIES	ABW	Aruba	2022	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	1028	999	97.18
+COUNTRIES	ABW	Aruba	2022	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.18
+COUNTRIES	ABW	Aruba	2022	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	1028	967	94.07
+COUNTRIES	ABW	Aruba	2022	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			94.07
+COUNTRIES	ABW	Aruba	2022	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_CHRONIC_ALL	Influenza chronic children and adults	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_HAJ	Influenza travellers (incl. Hajj pilgrimage)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_OTHER	Influenza other	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	FLU_RESIDENT	Influenza residents living in long term care facilities	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	HEPB3	HepB, 3rd dose	ADMIN	Administrative coverage	1028	953	92.7
+COUNTRIES	ABW	Aruba	2022	HEPB3	HepB, 3rd dose	OFFICIAL	Official coverage			92.7
+COUNTRIES	ABW	Aruba	2022	HIB3	Hib, 3rd dose	ADMIN	Administrative coverage	1028	967	94.07
+COUNTRIES	ABW	Aruba	2022	HIB3	Hib, 3rd dose	OFFICIAL	Official coverage			94.07
+COUNTRIES	ABW	Aruba	2022	HPV_FEM	HPV Female, final dose	ADMIN	Administrative coverage	688	411	59.74
+COUNTRIES	ABW	Aruba	2022	HPV_FEM	HPV Female, final dose	OFFICIAL	Official coverage			59.74
+COUNTRIES	ABW	Aruba	2022	HPV_MALE	HPV Male, final dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	HPV_MALE	HPV Male, final dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	IPV1	Inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage	1028	999	97.18
+COUNTRIES	ABW	Aruba	2022	IPV1	Inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.18
+COUNTRIES	ABW	Aruba	2022	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	IPV2	Inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1028	999	97.18
+COUNTRIES	ABW	Aruba	2022	IPV2	Inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			97.18
+COUNTRIES	ABW	Aruba	2022	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	MCV1	Measles-containing vaccine, 1st dose	ADMIN	Administrative coverage	1022	936	91.59
+COUNTRIES	ABW	Aruba	2022	MCV1	Measles-containing vaccine, 1st dose	OFFICIAL	Official coverage			91.59
+COUNTRIES	ABW	Aruba	2022	MCV2	Measles-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1296	1076	83.02
+COUNTRIES	ABW	Aruba	2022	MCV2	Measles-containing vaccine, 2nd dose	OFFICIAL	Official coverage			83.02
+COUNTRIES	ABW	Aruba	2022	MEN_ACYW_CONJ	Meningococcal ACYW conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	MEN_ACYW_CONJ	Meningococcal ACYW conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	MEN_B	Meningococcal B vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	MEN_B	Meningococcal B vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	PAB	Protection at birth (PAB) against neonatal tetanus	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	PCV1	Pneumococcal conjugate vaccine, 1st dose	ADMIN	Administrative coverage	1028	991	96.4
+COUNTRIES	ABW	Aruba	2022	PCV1	Pneumococcal conjugate vaccine, 1st dose	OFFICIAL	Official coverage			96.4
+COUNTRIES	ABW	Aruba	2022	PCV2	Pneumococcal conjugate vaccine, 2nd dose	ADMIN	Administrative coverage	1028	982	95.53
+COUNTRIES	ABW	Aruba	2022	PCV2	Pneumococcal conjugate vaccine, 2nd dose	OFFICIAL	Official coverage			95.53
+COUNTRIES	ABW	Aruba	2022	PCV3	Pneumococcal conjugate vaccine, final dose	ADMIN	Administrative coverage	1022	905	88.55
+COUNTRIES	ABW	Aruba	2022	PCV3	Pneumococcal conjugate vaccine, final dose	OFFICIAL	Official coverage			88.55
+COUNTRIES	ABW	Aruba	2022	PERCV_PW	Pertussis-containing vaccine, pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	PERCV_PW	Pertussis-containing vaccine, pregnant women	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1022	892	87.28
+COUNTRIES	ABW	Aruba	2022	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			87.28
+COUNTRIES	ABW	Aruba	2022	POL3	Polio, 3rd dose	ADMIN	Administrative coverage	1028	967	94.07
+COUNTRIES	ABW	Aruba	2022	POL3	Polio, 3rd dose	OFFICIAL	Official coverage			94.07
+COUNTRIES	ABW	Aruba	2022	RCV1	Rubella-containing vaccine, 1st dose	ADMIN	Administrative coverage	1022	936	91.59
+COUNTRIES	ABW	Aruba	2022	RCV1	Rubella-containing vaccine, 1st dose	OFFICIAL	Official coverage			91.59
+COUNTRIES	ABW	Aruba	2022	ROTA1	Rotavirus, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	ROTA1	Rotavirus, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	ROTAC	Rotavirus, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	ROTAC	Rotavirus, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1022	892	87.28
+COUNTRIES	ABW	Aruba	2022	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			87.28
+COUNTRIES	ABW	Aruba	2022	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1296	1092	84.26
+COUNTRIES	ABW	Aruba	2022	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			84.26
+COUNTRIES	ABW	Aruba	2022	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1434	1151	80.26
+COUNTRIES	ABW	Aruba	2022	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			80.26
+COUNTRIES	ABW	Aruba	2022	TYPHOID_CONJ	Typhoid conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	TYPHOID_CONJ	Typhoid conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	VAD1	Vitamin A, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	VAD1	Vitamin A, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2022	YFV	Yellow fever vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2022	YFV	Yellow fever vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1188	1008	84.85
+COUNTRIES	ABW	Aruba	2021	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			84.85
+COUNTRIES	ABW	Aruba	2021	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1325	1030	77.74
+COUNTRIES	ABW	Aruba	2021	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			77.74
+COUNTRIES	ABW	Aruba	2021	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1417	1232	86.94
+COUNTRIES	ABW	Aruba	2021	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			86.94
+COUNTRIES	ABW	Aruba	2021	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	1046	1020	97.51
+COUNTRIES	ABW	Aruba	2021	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.51
+COUNTRIES	ABW	Aruba	2021	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	1046	973	93.02
+COUNTRIES	ABW	Aruba	2021	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			93.02
+COUNTRIES	ABW	Aruba	2021	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_CHRONIC_ALL	Influenza chronic children and adults	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_HAJ	Influenza travellers (incl. Hajj pilgrimage)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_OTHER	Influenza other	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	FLU_RESIDENT	Influenza residents living in long term care facilities	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	HEPB3	HepB, 3rd dose	ADMIN	Administrative coverage	1046	961	91.87
+COUNTRIES	ABW	Aruba	2021	HEPB3	HepB, 3rd dose	OFFICIAL	Official coverage			91.87
+COUNTRIES	ABW	Aruba	2021	HIB3	Hib, 3rd dose	ADMIN	Administrative coverage	1046	973	93.02
+COUNTRIES	ABW	Aruba	2021	HIB3	Hib, 3rd dose	OFFICIAL	Official coverage			93.02
+COUNTRIES	ABW	Aruba	2021	HPV_FEM	HPV Female, final dose	ADMIN	Administrative coverage	761	474	62.29
+COUNTRIES	ABW	Aruba	2021	HPV_FEM	HPV Female, final dose	OFFICIAL	Official coverage			62.29
+COUNTRIES	ABW	Aruba	2021	HPV_MALE	HPV Male, final dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	HPV_MALE	HPV Male, final dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	IPV1	Inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage	1046	1020	97.51
+COUNTRIES	ABW	Aruba	2021	IPV1	Inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			97.51
+COUNTRIES	ABW	Aruba	2021	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	IPV2	Inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1046	1009	96.46
+COUNTRIES	ABW	Aruba	2021	IPV2	Inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			96.46
+COUNTRIES	ABW	Aruba	2021	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	MCV1	Measles-containing vaccine, 1st dose	ADMIN	Administrative coverage	1188	1115	93.86
+COUNTRIES	ABW	Aruba	2021	MCV1	Measles-containing vaccine, 1st dose	OFFICIAL	Official coverage			93.86
+COUNTRIES	ABW	Aruba	2021	MCV2	Measles-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1325	1013	76.45
+COUNTRIES	ABW	Aruba	2021	MCV2	Measles-containing vaccine, 2nd dose	OFFICIAL	Official coverage			76.45
+COUNTRIES	ABW	Aruba	2021	MEN_A_CONJ	Meningococcal A conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	MEN_A_CONJ	Meningococcal A conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	PAB	Protection at birth (PAB) against neonatal tetanus	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	PCV1	Pneumococcal conjugate vaccine, 1st dose	ADMIN	Administrative coverage	1046	1019	97.42
+COUNTRIES	ABW	Aruba	2021	PCV1	Pneumococcal conjugate vaccine, 1st dose	OFFICIAL	Official coverage			97.42
+COUNTRIES	ABW	Aruba	2021	PCV2	Pneumococcal conjugate vaccine, 2nd dose	ADMIN	Administrative coverage	1046	991	94.74
+COUNTRIES	ABW	Aruba	2021	PCV2	Pneumococcal conjugate vaccine, 2nd dose	OFFICIAL	Official coverage			94.74
+COUNTRIES	ABW	Aruba	2021	PCV3	Pneumococcal conjugate vaccine, final dose	ADMIN	Administrative coverage	1188	1074	90.4
+COUNTRIES	ABW	Aruba	2021	PCV3	Pneumococcal conjugate vaccine, final dose	OFFICIAL	Official coverage			90.4
+COUNTRIES	ABW	Aruba	2021	PERCV_PW	Pertussis-containing vaccine, pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	PERCV_PW	Pertussis-containing vaccine, pregnant women	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1188	1008	84.85
+COUNTRIES	ABW	Aruba	2021	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			84.85
+COUNTRIES	ABW	Aruba	2021	POL3	Polio, 3rd dose	ADMIN	Administrative coverage	1046	973	93.02
+COUNTRIES	ABW	Aruba	2021	POL3	Polio, 3rd dose	OFFICIAL	Official coverage			93.02
+COUNTRIES	ABW	Aruba	2021	RCV1	Rubella-containing vaccine, 1st dose	ADMIN	Administrative coverage	1188	1115	93.86
+COUNTRIES	ABW	Aruba	2021	RCV1	Rubella-containing vaccine, 1st dose	OFFICIAL	Official coverage			93.86
+COUNTRIES	ABW	Aruba	2021	ROTA1	Rotavirus, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	ROTA1	Rotavirus, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	ROTAC	Rotavirus, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	ROTAC	Rotavirus, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1188	1008	84.85
+COUNTRIES	ABW	Aruba	2021	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			84.85
+COUNTRIES	ABW	Aruba	2021	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1325	1030	77.74
+COUNTRIES	ABW	Aruba	2021	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			77.74
+COUNTRIES	ABW	Aruba	2021	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1417	1232	86.94
+COUNTRIES	ABW	Aruba	2021	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			86.94
+COUNTRIES	ABW	Aruba	2021	TYPHOID_CONJ	Typhoid conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	TYPHOID_CONJ	Typhoid conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	VAD1	Vitamin A, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	VAD1	Vitamin A, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2021	YFV	Yellow fever vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2021	YFV	Yellow fever vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1242	1140	92
+COUNTRIES	ABW	Aruba	2019	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2019	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1448	1234	85
+COUNTRIES	ABW	Aruba	2019	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			85
+COUNTRIES	ABW	Aruba	2019	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1590	1462	92
+COUNTRIES	ABW	Aruba	2019	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2019	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	1181	1165	99
+COUNTRIES	ABW	Aruba	2019	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2019	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	1181	1132	96
+COUNTRIES	ABW	Aruba	2019	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2019	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2019	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2019	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_CHRONIC_ALL	Influenza chronic children and adults	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2019	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_HAJ	Influenza travellers (incl. Hajj pilgrimage)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_OTHER	Influenza other	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	FLU_RESIDENT	Influenza residents living in long term care facilities	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	HEPB3	HepB, 3rd dose	ADMIN	Administrative coverage	1181	1108	94
+COUNTRIES	ABW	Aruba	2019	HEPB3	HepB, 3rd dose	OFFICIAL	Official coverage			94
+COUNTRIES	ABW	Aruba	2019	HIB3	Hib, 3rd dose	ADMIN	Administrative coverage	1181	1132	96
+COUNTRIES	ABW	Aruba	2019	HIB3	Hib, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2019	HPV_FEM	HPV Female, final dose	ADMIN	Administrative coverage	815	517	63
+COUNTRIES	ABW	Aruba	2019	HPV_FEM	HPV Female, final dose	OFFICIAL	Official coverage			63
+COUNTRIES	ABW	Aruba	2019	HPV_MALE	HPV Male, final dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	HPV_MALE	HPV Male, final dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	IPV1	Inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage	1181	1165	99
+COUNTRIES	ABW	Aruba	2019	IPV1	Inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2019	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	JAPENC	Japanese encephalitis	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	MCV1	Measles-containing vaccine, 1st dose	ADMIN	Administrative coverage	1242	1182	95
+COUNTRIES	ABW	Aruba	2019	MCV1	Measles-containing vaccine, 1st dose	OFFICIAL	Official coverage			95
+COUNTRIES	ABW	Aruba	2019	MCV2	Measles-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1448	1224	85
+COUNTRIES	ABW	Aruba	2019	MCV2	Measles-containing vaccine, 2nd dose	OFFICIAL	Official coverage			85
+COUNTRIES	ABW	Aruba	2019	MEN_A_CONJ	Meningococcal A conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	MEN_A_CONJ	Meningococcal A conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	PAB	Protection at birth (PAB) against neonatal tetanus	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	PCV1	Pneumococcal conjugate vaccine, 1st dose	ADMIN	Administrative coverage	1181	1164	99
+COUNTRIES	ABW	Aruba	2019	PCV1	Pneumococcal conjugate vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2019	PCV2	Pneumococcal conjugate vaccine, 2nd dose	ADMIN	Administrative coverage	1181	1142	97
+COUNTRIES	ABW	Aruba	2019	PCV2	Pneumococcal conjugate vaccine, 2nd dose	OFFICIAL	Official coverage			97
+COUNTRIES	ABW	Aruba	2019	PCV3	Pneumococcal conjugate vaccine, final dose	ADMIN	Administrative coverage	1242	1136	91
+COUNTRIES	ABW	Aruba	2019	PCV3	Pneumococcal conjugate vaccine, final dose	OFFICIAL	Official coverage			91
+COUNTRIES	ABW	Aruba	2019	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1242	1140	92
+COUNTRIES	ABW	Aruba	2019	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2019	POL3	Polio, 3rd dose	ADMIN	Administrative coverage	1181	1132	96
+COUNTRIES	ABW	Aruba	2019	POL3	Polio, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2019	RCV1	Rubella-containing vaccine, 1st dose	ADMIN	Administrative coverage	1242	1182	95
+COUNTRIES	ABW	Aruba	2019	RCV1	Rubella-containing vaccine, 1st dose	OFFICIAL	Official coverage			95
+COUNTRIES	ABW	Aruba	2019	ROTA1	Rotavirus, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	ROTA1	Rotavirus, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	ROTAC	Rotavirus, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	ROTAC	Rotavirus, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1242	1140	92
+COUNTRIES	ABW	Aruba	2019	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2019	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1448	1234	85
+COUNTRIES	ABW	Aruba	2019	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			85
+COUNTRIES	ABW	Aruba	2019	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1590	1462	92
+COUNTRIES	ABW	Aruba	2019	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2019	TYPHOID	Typhoid	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	TYPHOID	Typhoid	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	VAD1	Vitamin A, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	VAD1	Vitamin A, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2019	YFV	Yellow fever vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2019	YFV	Yellow fever vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1248	1164	93
+COUNTRIES	ABW	Aruba	2018	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			93
+COUNTRIES	ABW	Aruba	2018	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1430	1191	83
+COUNTRIES	ABW	Aruba	2018	DIPHCV5	Diphtheria-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			83
+COUNTRIES	ABW	Aruba	2018	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1653	1527	92
+COUNTRIES	ABW	Aruba	2018	DIPHCV6	Diphtheria-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2018	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	1243	1228	99
+COUNTRIES	ABW	Aruba	2018	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2018	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	1243	1195	96
+COUNTRIES	ABW	Aruba	2018	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2018	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2018	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2018	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_CHRONIC_ALL	Influenza chronic children and adults	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage		0	
+COUNTRIES	ABW	Aruba	2018	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_HAJ	Influenza travellers (incl. Hajj pilgrimage)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_OTHER	Influenza other	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	FLU_RESIDENT	Influenza residents living in long term care facilities	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	HEPB_BD	HepB, birth dose (given within 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	HEPB_BDALL	HepB, birth dose total (including those given within and after 24 hours of birth)	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	HEPB3	HepB, 3rd dose	ADMIN	Administrative coverage	1243	1162	93
+COUNTRIES	ABW	Aruba	2018	HEPB3	HepB, 3rd dose	OFFICIAL	Official coverage			93
+COUNTRIES	ABW	Aruba	2018	HIB3	Hib, 3rd dose	ADMIN	Administrative coverage	1243	1195	96
+COUNTRIES	ABW	Aruba	2018	HIB3	Hib, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2018	HPV_FEM	HPV Female, final dose	ADMIN	Administrative coverage	801	404	50
+COUNTRIES	ABW	Aruba	2018	HPV_FEM	HPV Female, final dose	OFFICIAL	Official coverage			50
+COUNTRIES	ABW	Aruba	2018	HPV_MALE	HPV Male, final dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	HPV_MALE	HPV Male, final dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	IPV1	Inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage	1243	1228	99
+COUNTRIES	ABW	Aruba	2018	IPV1	Inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2018	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	IPV1_FRAC	Fractional inactivated polio-containing vaccine, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	IPV2_FRAC	Fractional inactivated polio-containing vaccine, 2nd dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	JAPENC	Japanese encephalitis	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	MCV1	Measles-containing vaccine, 1st dose	ADMIN	Administrative coverage	1248	1206	97
+COUNTRIES	ABW	Aruba	2018	MCV1	Measles-containing vaccine, 1st dose	OFFICIAL	Official coverage			97
+COUNTRIES	ABW	Aruba	2018	MCV2	Measles-containing vaccine, 2nd dose	ADMIN	Administrative coverage	1430	1185	83
+COUNTRIES	ABW	Aruba	2018	MCV2	Measles-containing vaccine, 2nd dose	OFFICIAL	Official coverage			83
+COUNTRIES	ABW	Aruba	2018	MEN_A_CONJ	Meningococcal A conjugate vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	MEN_A_CONJ	Meningococcal A conjugate vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	PAB	Protection at birth (PAB) against neonatal tetanus	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	PCV1	Pneumococcal conjugate vaccine, 1st dose	ADMIN	Administrative coverage	1243	1223	98
+COUNTRIES	ABW	Aruba	2018	PCV1	Pneumococcal conjugate vaccine, 1st dose	OFFICIAL	Official coverage			98
+COUNTRIES	ABW	Aruba	2018	PCV2	Pneumococcal conjugate vaccine, 2nd dose	ADMIN	Administrative coverage	1243	1201	97
+COUNTRIES	ABW	Aruba	2018	PCV2	Pneumococcal conjugate vaccine, 2nd dose	OFFICIAL	Official coverage			97
+COUNTRIES	ABW	Aruba	2018	PCV3	Pneumococcal conjugate vaccine, final dose	ADMIN	Administrative coverage	1248	1178	94
+COUNTRIES	ABW	Aruba	2018	PCV3	Pneumococcal conjugate vaccine, final dose	OFFICIAL	Official coverage			94
+COUNTRIES	ABW	Aruba	2018	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1248	1164	93
+COUNTRIES	ABW	Aruba	2018	PERCV4	Pertussis-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			93
+COUNTRIES	ABW	Aruba	2018	POL3	Polio, 3rd dose	ADMIN	Administrative coverage	1243	1195	96
+COUNTRIES	ABW	Aruba	2018	POL3	Polio, 3rd dose	OFFICIAL	Official coverage			96
+COUNTRIES	ABW	Aruba	2018	RCV1	Rubella-containing vaccine, 1st dose	ADMIN	Administrative coverage	1248	1206	97
+COUNTRIES	ABW	Aruba	2018	RCV1	Rubella-containing vaccine, 1st dose	OFFICIAL	Official coverage			97
+COUNTRIES	ABW	Aruba	2018	ROTA1	Rotavirus, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	ROTA1	Rotavirus, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	ROTAC	Rotavirus, last dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	ROTAC	Rotavirus, last dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	TT2PLUS	Tetanus toxoid-containing vaccine, 2nd and subsequent doses	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1248	1164	93
+COUNTRIES	ABW	Aruba	2018	TTCV4	Tetanus-containing vaccine, 4th dose (1st booster)	OFFICIAL	Official coverage			93
+COUNTRIES	ABW	Aruba	2018	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	ADMIN	Administrative coverage	1430	1191	83
+COUNTRIES	ABW	Aruba	2018	TTCV5	Tetanus-containing vaccine, 5th dose (2nd booster)	OFFICIAL	Official coverage			83
+COUNTRIES	ABW	Aruba	2018	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	ADMIN	Administrative coverage	1653	1527	92
+COUNTRIES	ABW	Aruba	2018	TTCV6	Tetanus-containing vaccine, 6th dose (3rd booster)	OFFICIAL	Official coverage			92
+COUNTRIES	ABW	Aruba	2018	TYPHOID	Typhoid	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	TYPHOID	Typhoid	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	VAD1	Vitamin A, 1st dose	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	VAD1	Vitamin A, 1st dose	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2018	YFV	Yellow fever vaccine	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2018	YFV	Yellow fever vaccine	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2017	BCG	BCG	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	BCG	BCG	OFFICIAL	Official coverage			
+COUNTRIES	ABW	Aruba	2017	DIPHCV4	Diphtheria-containing vaccine, 4th dose (1st booster)	ADMIN	Administrative coverage	1271	1193	94
+COUNTRIES	ABW	Aruba	2017	DTPCV1	DTP-containing vaccine, 1st dose	ADMIN	Administrative coverage	1252	1245	99
+COUNTRIES	ABW	Aruba	2017	DTPCV1	DTP-containing vaccine, 1st dose	OFFICIAL	Official coverage			99
+COUNTRIES	ABW	Aruba	2017	DTPCV3	DTP-containing vaccine, 3rd dose	ADMIN	Administrative coverage	1252	1214	97
+COUNTRIES	ABW	Aruba	2017	DTPCV3	DTP-containing vaccine, 3rd dose	OFFICIAL	Official coverage			97
+COUNTRIES	ABW	Aruba	2017	FLU_ALL	Influenza all persons above >6 months (universal recommendation)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_CHILD1	Influenza child age group 1	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_CHILD2	Influenza child age group 2	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_CHRONIC_ADULT	Influenza chronic adult	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_CHRONIC_ALL	Influenza chronic children and adults	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_CHRONIC_PED	Influenza chronic pediatric	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_ELDERLY	Influenza older persons	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_HAJ	Influenza travellers (incl. Hajj pilgrimage)	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_HCW	Influenza health care workers	ADMIN	Administrative coverage			
+COUNTRIES	ABW	Aruba	2017	FLU_PW	Influenza pregnant women	ADMIN	Administrative coverage			
+
+incidence-rate-data.xlsx
+GROUP	CODE	NAME	YEAR	DISEASE	DISEASE_DESCRIPTION	DENOMINATOR	INCIDENCE_RATE
+COUNTRIES	ABW	Aruba	2023	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2023	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2023	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	9.3
+COUNTRIES	ABW	Aruba	2023	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	ABW	Aruba	2023	MUMPS	Mumps	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2023	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2023	PERTUSSIS	Pertussis	per 1,000,000 total population	9.3
+COUNTRIES	ABW	Aruba	2023	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	ABW	Aruba	2023	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	ABW	Aruba	2023	TTETANUS	Total tetanus	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2023	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2023	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2022	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	18.6
+COUNTRIES	ABW	Aruba	2022	MEASLES	Measles	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	MUMPS	Mumps	per 1,000,000 total population	18.6
+COUNTRIES	ABW	Aruba	2022	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2022	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	ABW	Aruba	2022	RUBELLA	Rubella	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	TTETANUS	Total tetanus	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2022	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2021	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	MEASLES	Measles	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	MUMPS	Mumps	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2021	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	ABW	Aruba	2021	RUBELLA	Rubella	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	TTETANUS	Total tetanus	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2021	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2019	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2019	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2019	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	ABW	Aruba	2019	MEASLES	Measles	per 1,000,000 total population	9.3
+COUNTRIES	ABW	Aruba	2019	MUMPS	Mumps	per 1,000,000 total population	9.3
+COUNTRIES	ABW	Aruba	2019	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2019	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2019	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	ABW	Aruba	2019	RUBELLA	Rubella	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2019	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2019	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2018	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	ABW	Aruba	2018	MEASLES	Measles	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	MUMPS	Mumps	per 1,000,000 total population	47
+COUNTRIES	ABW	Aruba	2018	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2018	PERTUSSIS	Pertussis	per 1,000,000 total population	9.4
+COUNTRIES	ABW	Aruba	2018	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	ABW	Aruba	2018	RUBELLA	Rubella	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	TTETANUS	Total tetanus	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2018	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2017	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	ABW	Aruba	2017	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2017	MEASLES	Measles	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2017	MUMPS	Mumps	per 1,000,000 total population	9.5
+COUNTRIES	ABW	Aruba	2017	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	ABW	Aruba	2017	PERTUSSIS	Pertussis	per 1,000,000 total population	9.5
+COUNTRIES	ABW	Aruba	2017	RUBELLA	Rubella	per 1,000,000 total population	0
+COUNTRIES	ABW	Aruba	2017	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2023	CRS	Congenital rubella syndrome	per 10,000 live births	4
+COUNTRIES	AFG	Afghanistan	2023	DIPHTHERIA	Diphtheria	per 1,000,000 total population	1.5
+COUNTRIES	AFG	Afghanistan	2023	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2023	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2023	MEASLES	Measles	per 1,000,000 total population	67.4
+COUNTRIES	AFG	Afghanistan	2023	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2023	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2023	PERTUSSIS	Pertussis	per 1,000,000 total population	36.9
+COUNTRIES	AFG	Afghanistan	2023	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.3
+COUNTRIES	AFG	Afghanistan	2023	RUBELLA	Rubella	per 1,000,000 total population	10.7
+COUNTRIES	AFG	Afghanistan	2023	TTETANUS	Total tetanus	per 1,000,000 total population	2.1
+COUNTRIES	AFG	Afghanistan	2023	TYPHOID	Typhoid	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2023	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2022	CRS	Congenital rubella syndrome	per 10,000 live births	5.5
+COUNTRIES	AFG	Afghanistan	2022	DIPHTHERIA	Diphtheria	per 1,000,000 total population	1.2
+COUNTRIES	AFG	Afghanistan	2022	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2022	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2022	MEASLES	Measles	per 1,000,000 total population	127.3
+COUNTRIES	AFG	Afghanistan	2022	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2022	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2022	PERTUSSIS	Pertussis	per 1,000,000 total population	8.2
+COUNTRIES	AFG	Afghanistan	2022	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	2022	RUBELLA	Rubella	per 1,000,000 total population	4.8
+COUNTRIES	AFG	Afghanistan	2022	TTETANUS	Total tetanus	per 1,000,000 total population	1.2
+COUNTRIES	AFG	Afghanistan	2022	TYPHOID	Typhoid	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2022	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2021	CRS	Congenital rubella syndrome	per 10,000 live births	0.4
+COUNTRIES	AFG	Afghanistan	2021	DIPHTHERIA	Diphtheria	per 1,000,000 total population	1.5
+COUNTRIES	AFG	Afghanistan	2021	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2021	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2021	MEASLES	Measles	per 1,000,000 total population	72.5
+COUNTRIES	AFG	Afghanistan	2021	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2021	NTETANUS	Neonatal tetanus	per 1,000 live births	2.1
+COUNTRIES	AFG	Afghanistan	2021	PERTUSSIS	Pertussis	per 1,000,000 total population	2.7
+COUNTRIES	AFG	Afghanistan	2021	POLIO	Poliomyelitis	per 1,000,000 <15 population	2.4
+COUNTRIES	AFG	Afghanistan	2021	RUBELLA	Rubella	per 1,000,000 total population	1.1
+COUNTRIES	AFG	Afghanistan	2021	TTETANUS	Total tetanus	per 1,000,000 total population	76.7
+COUNTRIES	AFG	Afghanistan	2021	TYPHOID	Typhoid	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2021	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	CRS	Congenital rubella syndrome	per 10,000 live births	4.5
+COUNTRIES	AFG	Afghanistan	2020	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	INVASIVE_MENING	Invasive meningococcal disease	per 1,000,000 total population	4.1
+COUNTRIES	AFG	Afghanistan	2020	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	MEASLES	Measles	per 1,000,000 total population	16.4
+COUNTRIES	AFG	Afghanistan	2020	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2020	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	POLIO	Poliomyelitis	per 1,000,000 <15 population	17.8
+COUNTRIES	AFG	Afghanistan	2020	RUBELLA	Rubella	per 1,000,000 total population	0.6
+COUNTRIES	AFG	Afghanistan	2020	TTETANUS	Total tetanus	per 1,000,000 total population	1.8
+COUNTRIES	AFG	Afghanistan	2020	TYPHOID	Typhoid	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2020	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2019	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	MEASLES	Measles	per 1,000,000 total population	9.3
+COUNTRIES	AFG	Afghanistan	2019	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2019	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	POLIO	Poliomyelitis	per 1,000,000 <15 population	0
+COUNTRIES	AFG	Afghanistan	2019	RUBELLA	Rubella	per 1,000,000 total population	1.6
+COUNTRIES	AFG	Afghanistan	2019	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	TYPHOID	Typhoid	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2019	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2018	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2018	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0.1
+COUNTRIES	AFG	Afghanistan	2018	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2018	MEASLES	Measles	per 1,000,000 total population	54.8
+COUNTRIES	AFG	Afghanistan	2018	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2018	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2018	PERTUSSIS	Pertussis	per 1,000,000 total population	13.3
+COUNTRIES	AFG	Afghanistan	2018	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.3
+COUNTRIES	AFG	Afghanistan	2018	RUBELLA	Rubella	per 1,000,000 total population	1
+COUNTRIES	AFG	Afghanistan	2018	TTETANUS	Total tetanus	per 1,000,000 total population	1.4
+COUNTRIES	AFG	Afghanistan	2018	TYPHOID	Typhoid	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2018	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2017	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2017	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2017	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2017	MEASLES	Measles	per 1,000,000 total population	42.3
+COUNTRIES	AFG	Afghanistan	2017	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2017	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	2017	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2017	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.9
+COUNTRIES	AFG	Afghanistan	2017	RUBELLA	Rubella	per 1,000,000 total population	1.5
+COUNTRIES	AFG	Afghanistan	2017	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2017	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2016	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2016	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2016	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2016	MEASLES	Measles	per 1,000,000 total population	18.4
+COUNTRIES	AFG	Afghanistan	2016	MUMPS	Mumps	per 1,000,000 total population	0.8
+COUNTRIES	AFG	Afghanistan	2016	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2016	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2016	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.8
+COUNTRIES	AFG	Afghanistan	2016	RUBELLA	Rubella	per 1,000,000 total population	1.2
+COUNTRIES	AFG	Afghanistan	2016	TTETANUS	Total tetanus	per 1,000,000 total population	1.1
+COUNTRIES	AFG	Afghanistan	2016	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2015	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	AFG	Afghanistan	2015	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2015	JAPENC	Japanese encephalitis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2015	MEASLES	Measles	per 1,000,000 total population	34.1
+COUNTRIES	AFG	Afghanistan	2015	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2015	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2015	PERTUSSIS	Pertussis	per 1,000,000 total population	12.8
+COUNTRIES	AFG	Afghanistan	2015	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.3
+COUNTRIES	AFG	Afghanistan	2015	RUBELLA	Rubella	per 1,000,000 total population	1.7
+COUNTRIES	AFG	Afghanistan	2015	TTETANUS	Total tetanus	per 1,000,000 total population	2.2
+COUNTRIES	AFG	Afghanistan	2015	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2014	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	AFG	Afghanistan	2014	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2014	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2014	MEASLES	Measles	per 1,000,000 total population	15
+COUNTRIES	AFG	Afghanistan	2014	MUMPS	Mumps	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2014	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2014	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2014	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.8
+COUNTRIES	AFG	Afghanistan	2014	RUBELLA	Rubella	per 1,000,000 total population	1.3
+COUNTRIES	AFG	Afghanistan	2014	TTETANUS	Total tetanus	per 1,000,000 total population	1.2
+COUNTRIES	AFG	Afghanistan	2014	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2013	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	AFG	Afghanistan	2013	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2013	JAPENC	Japanese encephalitis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2013	MEASLES	Measles	per 1,000,000 total population	13.6
+COUNTRIES	AFG	Afghanistan	2013	MUMPS	Mumps	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2013	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2013	PERTUSSIS	Pertussis	per 1,000,000 total population	11.7
+COUNTRIES	AFG	Afghanistan	2013	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.1
+COUNTRIES	AFG	Afghanistan	2013	RUBELLA	Rubella	per 1,000,000 total population	11.6
+COUNTRIES	AFG	Afghanistan	2013	TTETANUS	Total tetanus	per 1,000,000 total population	0.8
+COUNTRIES	AFG	Afghanistan	2013	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2012	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2012	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2012	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2012	MEASLES	Measles	per 1,000,000 total population	91.2
+COUNTRIES	AFG	Afghanistan	2012	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2012	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2012	PERTUSSIS	Pertussis	per 1,000,000 total population	49
+COUNTRIES	AFG	Afghanistan	2012	POLIO	Poliomyelitis	per 1,000,000 <15 population	3.2
+COUNTRIES	AFG	Afghanistan	2012	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2012	TTETANUS	Total tetanus	per 1,000,000 total population	1.2
+COUNTRIES	AFG	Afghanistan	2012	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2011	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2011	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2011	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2011	MEASLES	Measles	per 1,000,000 total population	102.7
+COUNTRIES	AFG	Afghanistan	2011	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2011	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2011	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2011	POLIO	Poliomyelitis	per 1,000,000 <15 population	5.7
+COUNTRIES	AFG	Afghanistan	2011	RUBELLA	Rubella	per 1,000,000 total population	25.6
+COUNTRIES	AFG	Afghanistan	2011	TTETANUS	Total tetanus	per 1,000,000 total population	0.7
+COUNTRIES	AFG	Afghanistan	2011	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2010	CRS	Congenital rubella syndrome	per 10,000 live births	0
+COUNTRIES	AFG	Afghanistan	2010	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2010	JAPENC	Japanese encephalitis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2010	MEASLES	Measles	per 1,000,000 total population	70.3
+COUNTRIES	AFG	Afghanistan	2010	MUMPS	Mumps	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2010	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2010	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2010	POLIO	Poliomyelitis	per 1,000,000 <15 population	2.2
+COUNTRIES	AFG	Afghanistan	2010	RUBELLA	Rubella	per 1,000,000 total population	1.6
+COUNTRIES	AFG	Afghanistan	2010	TTETANUS	Total tetanus	per 1,000,000 total population	0.8
+COUNTRIES	AFG	Afghanistan	2010	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2009	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2009	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2009	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2009	MEASLES	Measles	per 1,000,000 total population	104.2
+COUNTRIES	AFG	Afghanistan	2009	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2009	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	2009	PERTUSSIS	Pertussis	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2009	POLIO	Poliomyelitis	per 1,000,000 <15 population	2.8
+COUNTRIES	AFG	Afghanistan	2009	RUBELLA	Rubella	per 1,000,000 total population	18.2
+COUNTRIES	AFG	Afghanistan	2009	TTETANUS	Total tetanus	per 1,000,000 total population	0.7
+COUNTRIES	AFG	Afghanistan	2009	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2008	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2008	DIPHTHERIA	Diphtheria	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	2008	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2008	MEASLES	Measles	per 1,000,000 total population	60.4
+COUNTRIES	AFG	Afghanistan	2008	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2008	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2008	PERTUSSIS	Pertussis	per 1,000,000 total population	92.4
+COUNTRIES	AFG	Afghanistan	2008	POLIO	Poliomyelitis	per 1,000,000 <15 population	2.4
+COUNTRIES	AFG	Afghanistan	2008	RUBELLA	Rubella	per 1,000,000 total population	15.7
+COUNTRIES	AFG	Afghanistan	2008	TTETANUS	Total tetanus	per 1,000,000 total population	2.2
+COUNTRIES	AFG	Afghanistan	2008	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2007	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2007	DIPHTHERIA	Diphtheria	per 1,000,000 total population	4
+COUNTRIES	AFG	Afghanistan	2007	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2007	MEASLES	Measles	per 1,000,000 total population	44
+COUNTRIES	AFG	Afghanistan	2007	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2007	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2007	PERTUSSIS	Pertussis	per 1,000,000 total population	227.9
+COUNTRIES	AFG	Afghanistan	2007	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.3
+COUNTRIES	AFG	Afghanistan	2007	RUBELLA	Rubella	per 1,000,000 total population	5.9
+COUNTRIES	AFG	Afghanistan	2007	TTETANUS	Total tetanus	per 1,000,000 total population	2.7
+COUNTRIES	AFG	Afghanistan	2007	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2006	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2006	DIPHTHERIA	Diphtheria	per 1,000,000 total population	2.1
+COUNTRIES	AFG	Afghanistan	2006	JAPENC	Japanese encephalitis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2006	MEASLES	Measles	per 1,000,000 total population	78.3
+COUNTRIES	AFG	Afghanistan	2006	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2006	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2006	PERTUSSIS	Pertussis	per 1,000,000 total population	98.9
+COUNTRIES	AFG	Afghanistan	2006	POLIO	Poliomyelitis	per 1,000,000 <15 population	2.4
+COUNTRIES	AFG	Afghanistan	2006	RUBELLA	Rubella	per 1,000,000 total population	7.7
+COUNTRIES	AFG	Afghanistan	2006	TTETANUS	Total tetanus	per 1,000,000 total population	1.7
+COUNTRIES	AFG	Afghanistan	2006	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2005	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2005	DIPHTHERIA	Diphtheria	per 1,000,000 total population	7.3
+COUNTRIES	AFG	Afghanistan	2005	MEASLES	Measles	per 1,000,000 total population	53.1
+COUNTRIES	AFG	Afghanistan	2005	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2005	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	2005	PERTUSSIS	Pertussis	per 1,000,000 total population	89
+COUNTRIES	AFG	Afghanistan	2005	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.7
+COUNTRIES	AFG	Afghanistan	2005	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2005	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2005	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2004	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2004	DIPHTHERIA	Diphtheria	per 1,000,000 total population	1.1
+COUNTRIES	AFG	Afghanistan	2004	MEASLES	Measles	per 1,000,000 total population	19.8
+COUNTRIES	AFG	Afghanistan	2004	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2004	NTETANUS	Neonatal tetanus	per 1,000 live births	0.1
+COUNTRIES	AFG	Afghanistan	2004	PERTUSSIS	Pertussis	per 1,000,000 total population	23.7
+COUNTRIES	AFG	Afghanistan	2004	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.3
+COUNTRIES	AFG	Afghanistan	2004	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2004	TTETANUS	Total tetanus	per 1,000,000 total population	3.4
+COUNTRIES	AFG	Afghanistan	2004	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2003	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2003	DIPHTHERIA	Diphtheria	per 1,000,000 total population	3.5
+COUNTRIES	AFG	Afghanistan	2003	MEASLES	Measles	per 1,000,000 total population	35.1
+COUNTRIES	AFG	Afghanistan	2003	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2003	NTETANUS	Neonatal tetanus	per 1,000 live births	0.1
+COUNTRIES	AFG	Afghanistan	2003	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2003	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.7
+COUNTRIES	AFG	Afghanistan	2003	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2003	TTETANUS	Total tetanus	per 1,000,000 total population	5.3
+COUNTRIES	AFG	Afghanistan	2003	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2002	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2002	DIPHTHERIA	Diphtheria	per 1,000,000 total population	39.9
+COUNTRIES	AFG	Afghanistan	2002	MEASLES	Measles	per 1,000,000 total population	116.3
+COUNTRIES	AFG	Afghanistan	2002	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2002	NTETANUS	Neonatal tetanus	per 1,000 live births	0.6
+COUNTRIES	AFG	Afghanistan	2002	PERTUSSIS	Pertussis	per 1,000,000 total population	67.3
+COUNTRIES	AFG	Afghanistan	2002	POLIO	Poliomyelitis	per 1,000,000 <15 population	0.9
+COUNTRIES	AFG	Afghanistan	2002	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2002	TTETANUS	Total tetanus	per 1,000,000 total population	45.6
+COUNTRIES	AFG	Afghanistan	2002	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2001	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	MEASLES	Measles	per 1,000,000 total population	432
+COUNTRIES	AFG	Afghanistan	2001	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	NTETANUS	Neonatal tetanus	per 1,000 live births	0.2
+COUNTRIES	AFG	Afghanistan	2001	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	POLIO	Poliomyelitis	per 1,000,000 <15 population	1.1
+COUNTRIES	AFG	Afghanistan	2001	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2001	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2000	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	2000	DIPHTHERIA	Diphtheria	per 1,000,000 total population	4.2
+COUNTRIES	AFG	Afghanistan	2000	MEASLES	Measles	per 1,000,000 total population	324.5
+COUNTRIES	AFG	Afghanistan	2000	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2000	NTETANUS	Neonatal tetanus	per 1,000 live births	0.1
+COUNTRIES	AFG	Afghanistan	2000	PERTUSSIS	Pertussis	per 1,000,000 total population	44.5
+COUNTRIES	AFG	Afghanistan	2000	POLIO	Poliomyelitis	per 1,000,000 <15 population	11.9
+COUNTRIES	AFG	Afghanistan	2000	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2000	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	2000	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1999	CRS	Congenital rubella syndrome	per 10,000 live births	
+COUNTRIES	AFG	Afghanistan	1999	DIPHTHERIA	Diphtheria	per 1,000,000 total population	14.9
+COUNTRIES	AFG	Afghanistan	1999	MEASLES	Measles	per 1,000,000 total population	181.5
+COUNTRIES	AFG	Afghanistan	1999	MUMPS	Mumps	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1999	NTETANUS	Neonatal tetanus	per 1,000 live births	0.1
+COUNTRIES	AFG	Afghanistan	1999	PERTUSSIS	Pertussis	per 1,000,000 total population	79.5
+COUNTRIES	AFG	Afghanistan	1999	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1999	RUBELLA	Rubella	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1999	TTETANUS	Total tetanus	per 1,000,000 total population	11.1
+COUNTRIES	AFG	Afghanistan	1999	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	1998	DIPHTHERIA	Diphtheria	per 1,000,000 total population	4.4
+COUNTRIES	AFG	Afghanistan	1998	MEASLES	Measles	per 1,000,000 total population	115.1
+COUNTRIES	AFG	Afghanistan	1998	NTETANUS	Neonatal tetanus	per 1,000 live births	0.3
+COUNTRIES	AFG	Afghanistan	1998	PERTUSSIS	Pertussis	per 1,000,000 total population	46.8
+COUNTRIES	AFG	Afghanistan	1998	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1998	TTETANUS	Total tetanus	per 1,000,000 total population	20
+COUNTRIES	AFG	Afghanistan	1998	YFEVER	Yellow fever	per 1,000,000 total population	0
+COUNTRIES	AFG	Afghanistan	1997	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1997	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1997	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1997	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1997	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1997	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1997	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1996	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1996	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1996	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1996	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1996	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1996	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1996	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1995	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1995	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1995	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1995	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1995	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1995	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1995	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1994	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1994	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1994	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1994	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1994	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1994	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1994	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1993	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1993	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1993	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1993	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1993	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1993	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1993	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1992	DIPHTHERIA	Diphtheria	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1992	MEASLES	Measles	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1992	NTETANUS	Neonatal tetanus	per 1,000 live births	
+COUNTRIES	AFG	Afghanistan	1992	PERTUSSIS	Pertussis	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1992	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1992	TTETANUS	Total tetanus	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1992	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1991	DIPHTHERIA	Diphtheria	per 1,000,000 total population	1.7
+COUNTRIES	AFG	Afghanistan	1991	MEASLES	Measles	per 1,000,000 total population	64.7
+COUNTRIES	AFG	Afghanistan	1991	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	1991	PERTUSSIS	Pertussis	per 1,000,000 total population	44.2
+COUNTRIES	AFG	Afghanistan	1991	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1991	TTETANUS	Total tetanus	per 1,000,000 total population	0.2
+COUNTRIES	AFG	Afghanistan	1991	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1990	DIPHTHERIA	Diphtheria	per 1,000,000 total population	30.6
+COUNTRIES	AFG	Afghanistan	1990	MEASLES	Measles	per 1,000,000 total population	133.6
+COUNTRIES	AFG	Afghanistan	1990	NTETANUS	Neonatal tetanus	per 1,000 live births	0
+COUNTRIES	AFG	Afghanistan	1990	PERTUSSIS	Pertussis	per 1,000,000 total population	34.1
+COUNTRIES	AFG	Afghanistan	1990	POLIO	Poliomyelitis	per 1,000,000 <15 population	
+COUNTRIES	AFG	Afghanistan	1990	TTETANUS	Total tetanus	per 1,000,000 total population	10.9
+COUNTRIES	AFG	Afghanistan	1990	YFEVER	Yellow fever	per 1,000,000 total population	
+COUNTRIES	AFG	Afghanistan	1989	DIPHTHERIA	Diphtheria	per 1,000,000 total population	24.1
+
+reported-cases-data.xlsx
+GROUP	CODE	NAME	YEAR	DISEASE	DISEASE_DESCRIPTION	CASES
+COUNTRIES	ABW	Aruba	2023	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2023	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2023	INVASIVE_MENING	Invasive meningococcal disease	1
+COUNTRIES	ABW	Aruba	2023	MEASLES	Measles	
+COUNTRIES	ABW	Aruba	2023	MUMPS	Mumps	0
+COUNTRIES	ABW	Aruba	2023	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2023	PERTUSSIS	Pertussis	1
+COUNTRIES	ABW	Aruba	2023	POLIO	Poliomyelitis	0
+COUNTRIES	ABW	Aruba	2023	RUBELLA	Rubella	
+COUNTRIES	ABW	Aruba	2023	TTETANUS	Total tetanus	0
+COUNTRIES	ABW	Aruba	2023	TYPHOID	Typhoid	0
+COUNTRIES	ABW	Aruba	2023	YFEVER	Yellow fever	0
+COUNTRIES	ABW	Aruba	2022	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2022	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2022	INVASIVE_MENING	Invasive meningococcal disease	2
+COUNTRIES	ABW	Aruba	2022	MEASLES	Measles	0
+COUNTRIES	ABW	Aruba	2022	MUMPS	Mumps	2
+COUNTRIES	ABW	Aruba	2022	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2022	PERTUSSIS	Pertussis	0
+COUNTRIES	ABW	Aruba	2022	POLIO	Poliomyelitis	0
+COUNTRIES	ABW	Aruba	2022	RUBELLA	Rubella	0
+COUNTRIES	ABW	Aruba	2022	TTETANUS	Total tetanus	0
+COUNTRIES	ABW	Aruba	2022	TYPHOID	Typhoid	0
+COUNTRIES	ABW	Aruba	2022	YFEVER	Yellow fever	0
+COUNTRIES	ABW	Aruba	2021	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2021	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2021	INVASIVE_MENING	Invasive meningococcal disease	0
+COUNTRIES	ABW	Aruba	2021	MEASLES	Measles	0
+COUNTRIES	ABW	Aruba	2021	MUMPS	Mumps	0
+COUNTRIES	ABW	Aruba	2021	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2021	PERTUSSIS	Pertussis	0
+COUNTRIES	ABW	Aruba	2021	POLIO	Poliomyelitis	0
+COUNTRIES	ABW	Aruba	2021	RUBELLA	Rubella	0
+COUNTRIES	ABW	Aruba	2021	TTETANUS	Total tetanus	0
+COUNTRIES	ABW	Aruba	2021	TYPHOID	Typhoid	0
+COUNTRIES	ABW	Aruba	2021	YFEVER	Yellow fever	0
+COUNTRIES	ABW	Aruba	2019	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2019	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2019	JAPENC	Japanese encephalitis	
+COUNTRIES	ABW	Aruba	2019	MEASLES	Measles	1
+COUNTRIES	ABW	Aruba	2019	MUMPS	Mumps	1
+COUNTRIES	ABW	Aruba	2019	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2019	PERTUSSIS	Pertussis	0
+COUNTRIES	ABW	Aruba	2019	POLIO	Poliomyelitis	0
+COUNTRIES	ABW	Aruba	2019	RUBELLA	Rubella	0
+COUNTRIES	ABW	Aruba	2019	TYPHOID	Typhoid	0
+COUNTRIES	ABW	Aruba	2019	YFEVER	Yellow fever	0
+COUNTRIES	ABW	Aruba	2018	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2018	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2018	JAPENC	Japanese encephalitis	
+COUNTRIES	ABW	Aruba	2018	MEASLES	Measles	0
+COUNTRIES	ABW	Aruba	2018	MUMPS	Mumps	5
+COUNTRIES	ABW	Aruba	2018	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2018	PERTUSSIS	Pertussis	1
+COUNTRIES	ABW	Aruba	2018	POLIO	Poliomyelitis	0
+COUNTRIES	ABW	Aruba	2018	RUBELLA	Rubella	0
+COUNTRIES	ABW	Aruba	2018	TTETANUS	Total tetanus	0
+COUNTRIES	ABW	Aruba	2018	TYPHOID	Typhoid	0
+COUNTRIES	ABW	Aruba	2018	YFEVER	Yellow fever	0
+COUNTRIES	ABW	Aruba	2017	CRS	Congenital rubella syndrome	0
+COUNTRIES	ABW	Aruba	2017	DIPHTHERIA	Diphtheria	0
+COUNTRIES	ABW	Aruba	2017	MEASLES	Measles	0
+COUNTRIES	ABW	Aruba	2017	MUMPS	Mumps	1
+COUNTRIES	ABW	Aruba	2017	NTETANUS	Neonatal tetanus	0
+COUNTRIES	ABW	Aruba	2017	PERTUSSIS	Pertussis	1
+COUNTRIES	ABW	Aruba	2017	RUBELLA	Rubella	0
+COUNTRIES	ABW	Aruba	2017	YFEVER	Yellow fever	0
+COUNTRIES	AFG	Afghanistan	2023	CRS	Congenital rubella syndrome	594
+COUNTRIES	AFG	Afghanistan	2023	DIPHTHERIA	Diphtheria	61
+COUNTRIES	AFG	Afghanistan	2023	INVASIVE_MENING	Invasive meningococcal disease	
+COUNTRIES	AFG	Afghanistan	2023	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2023	MEASLES	Measles	2792
+COUNTRIES	AFG	Afghanistan	2023	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2023	NTETANUS	Neonatal tetanus	31
+COUNTRIES	AFG	Afghanistan	2023	PERTUSSIS	Pertussis	1531
+COUNTRIES	AFG	Afghanistan	2023	POLIO	Poliomyelitis	6
+COUNTRIES	AFG	Afghanistan	2023	RUBELLA	Rubella	444
+COUNTRIES	AFG	Afghanistan	2023	TTETANUS	Total tetanus	87
+COUNTRIES	AFG	Afghanistan	2023	TYPHOID	Typhoid	
+COUNTRIES	AFG	Afghanistan	2023	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2022	CRS	Congenital rubella syndrome	803
+COUNTRIES	AFG	Afghanistan	2022	DIPHTHERIA	Diphtheria	50
+COUNTRIES	AFG	Afghanistan	2022	INVASIVE_MENING	Invasive meningococcal disease	
+COUNTRIES	AFG	Afghanistan	2022	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2022	MEASLES	Measles	5166
+COUNTRIES	AFG	Afghanistan	2022	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2022	NTETANUS	Neonatal tetanus	20
+COUNTRIES	AFG	Afghanistan	2022	PERTUSSIS	Pertussis	331
+COUNTRIES	AFG	Afghanistan	2022	POLIO	Poliomyelitis	
+COUNTRIES	AFG	Afghanistan	2022	RUBELLA	Rubella	195
+COUNTRIES	AFG	Afghanistan	2022	TTETANUS	Total tetanus	48
+COUNTRIES	AFG	Afghanistan	2022	TYPHOID	Typhoid	0
+COUNTRIES	AFG	Afghanistan	2022	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2021	CRS	Congenital rubella syndrome	54
+COUNTRIES	AFG	Afghanistan	2021	DIPHTHERIA	Diphtheria	61
+COUNTRIES	AFG	Afghanistan	2021	INVASIVE_MENING	Invasive meningococcal disease	
+COUNTRIES	AFG	Afghanistan	2021	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2021	MEASLES	Measles	2900
+COUNTRIES	AFG	Afghanistan	2021	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2021	NTETANUS	Neonatal tetanus	3030
+COUNTRIES	AFG	Afghanistan	2021	PERTUSSIS	Pertussis	108
+COUNTRIES	AFG	Afghanistan	2021	POLIO	Poliomyelitis	43
+COUNTRIES	AFG	Afghanistan	2021	RUBELLA	Rubella	46
+COUNTRIES	AFG	Afghanistan	2021	TTETANUS	Total tetanus	3070
+COUNTRIES	AFG	Afghanistan	2021	TYPHOID	Typhoid	
+COUNTRIES	AFG	Afghanistan	2021	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2020	CRS	Congenital rubella syndrome	649
+COUNTRIES	AFG	Afghanistan	2020	DIPHTHERIA	Diphtheria	
+COUNTRIES	AFG	Afghanistan	2020	INVASIVE_MENING	Invasive meningococcal disease	161
+COUNTRIES	AFG	Afghanistan	2020	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2020	MEASLES	Measles	640
+COUNTRIES	AFG	Afghanistan	2020	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2020	NTETANUS	Neonatal tetanus	70
+COUNTRIES	AFG	Afghanistan	2020	PERTUSSIS	Pertussis	
+COUNTRIES	AFG	Afghanistan	2020	POLIO	Poliomyelitis	308
+COUNTRIES	AFG	Afghanistan	2020	RUBELLA	Rubella	23
+COUNTRIES	AFG	Afghanistan	2020	TTETANUS	Total tetanus	70
+COUNTRIES	AFG	Afghanistan	2020	TYPHOID	Typhoid	
+COUNTRIES	AFG	Afghanistan	2020	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2019	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2019	DIPHTHERIA	Diphtheria	
+COUNTRIES	AFG	Afghanistan	2019	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2019	MEASLES	Measles	353
+COUNTRIES	AFG	Afghanistan	2019	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2019	NTETANUS	Neonatal tetanus	20
+COUNTRIES	AFG	Afghanistan	2019	PERTUSSIS	Pertussis	
+COUNTRIES	AFG	Afghanistan	2019	POLIO	Poliomyelitis	0
+COUNTRIES	AFG	Afghanistan	2019	RUBELLA	Rubella	59
+COUNTRIES	AFG	Afghanistan	2019	TTETANUS	Total tetanus	
+COUNTRIES	AFG	Afghanistan	2019	TYPHOID	Typhoid	
+COUNTRIES	AFG	Afghanistan	2019	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2018	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2018	DIPHTHERIA	Diphtheria	3
+COUNTRIES	AFG	Afghanistan	2018	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2018	MEASLES	Measles	2012
+COUNTRIES	AFG	Afghanistan	2018	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2018	NTETANUS	Neonatal tetanus	53
+COUNTRIES	AFG	Afghanistan	2018	PERTUSSIS	Pertussis	488
+COUNTRIES	AFG	Afghanistan	2018	POLIO	Poliomyelitis	21
+COUNTRIES	AFG	Afghanistan	2018	RUBELLA	Rubella	37
+COUNTRIES	AFG	Afghanistan	2018	TTETANUS	Total tetanus	53
+COUNTRIES	AFG	Afghanistan	2018	TYPHOID	Typhoid	
+COUNTRIES	AFG	Afghanistan	2018	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2017	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2017	DIPHTHERIA	Diphtheria	1
+COUNTRIES	AFG	Afghanistan	2017	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2017	MEASLES	Measles	1511
+COUNTRIES	AFG	Afghanistan	2017	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2017	NTETANUS	Neonatal tetanus	
+COUNTRIES	AFG	Afghanistan	2017	PERTUSSIS	Pertussis	1
+COUNTRIES	AFG	Afghanistan	2017	POLIO	Poliomyelitis	14
+COUNTRIES	AFG	Afghanistan	2017	RUBELLA	Rubella	53
+COUNTRIES	AFG	Afghanistan	2017	TTETANUS	Total tetanus	
+COUNTRIES	AFG	Afghanistan	2017	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2016	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2016	DIPHTHERIA	Diphtheria	
+COUNTRIES	AFG	Afghanistan	2016	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2016	MEASLES	Measles	638
+COUNTRIES	AFG	Afghanistan	2016	MUMPS	Mumps	29
+COUNTRIES	AFG	Afghanistan	2016	NTETANUS	Neonatal tetanus	4
+COUNTRIES	AFG	Afghanistan	2016	PERTUSSIS	Pertussis	0
+COUNTRIES	AFG	Afghanistan	2016	POLIO	Poliomyelitis	13
+COUNTRIES	AFG	Afghanistan	2016	RUBELLA	Rubella	42
+COUNTRIES	AFG	Afghanistan	2016	TTETANUS	Total tetanus	37
+COUNTRIES	AFG	Afghanistan	2016	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2015	CRS	Congenital rubella syndrome	0
+COUNTRIES	AFG	Afghanistan	2015	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2015	JAPENC	Japanese encephalitis	0
+COUNTRIES	AFG	Afghanistan	2015	MEASLES	Measles	1154
+COUNTRIES	AFG	Afghanistan	2015	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2015	NTETANUS	Neonatal tetanus	12
+COUNTRIES	AFG	Afghanistan	2015	PERTUSSIS	Pertussis	432
+COUNTRIES	AFG	Afghanistan	2015	POLIO	Poliomyelitis	20
+COUNTRIES	AFG	Afghanistan	2015	RUBELLA	Rubella	59
+COUNTRIES	AFG	Afghanistan	2015	TTETANUS	Total tetanus	74
+COUNTRIES	AFG	Afghanistan	2015	YFEVER	Yellow fever	0
+COUNTRIES	AFG	Afghanistan	2014	CRS	Congenital rubella syndrome	0
+COUNTRIES	AFG	Afghanistan	2014	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2014	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2014	MEASLES	Measles	492
+COUNTRIES	AFG	Afghanistan	2014	MUMPS	Mumps	0
+COUNTRIES	AFG	Afghanistan	2014	NTETANUS	Neonatal tetanus	17
+COUNTRIES	AFG	Afghanistan	2014	PERTUSSIS	Pertussis	0
+COUNTRIES	AFG	Afghanistan	2014	POLIO	Poliomyelitis	28
+COUNTRIES	AFG	Afghanistan	2014	RUBELLA	Rubella	43
+COUNTRIES	AFG	Afghanistan	2014	TTETANUS	Total tetanus	39
+COUNTRIES	AFG	Afghanistan	2014	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2013	CRS	Congenital rubella syndrome	0
+COUNTRIES	AFG	Afghanistan	2013	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2013	JAPENC	Japanese encephalitis	0
+COUNTRIES	AFG	Afghanistan	2013	MEASLES	Measles	430
+COUNTRIES	AFG	Afghanistan	2013	MUMPS	Mumps	0
+COUNTRIES	AFG	Afghanistan	2013	NTETANUS	Neonatal tetanus	13
+COUNTRIES	AFG	Afghanistan	2013	PERTUSSIS	Pertussis	371
+COUNTRIES	AFG	Afghanistan	2013	POLIO	Poliomyelitis	17
+COUNTRIES	AFG	Afghanistan	2013	RUBELLA	Rubella	367
+COUNTRIES	AFG	Afghanistan	2013	TTETANUS	Total tetanus	24
+COUNTRIES	AFG	Afghanistan	2013	YFEVER	Yellow fever	0
+COUNTRIES	AFG	Afghanistan	2012	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2012	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2012	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2012	MEASLES	Measles	2787
+COUNTRIES	AFG	Afghanistan	2012	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2012	NTETANUS	Neonatal tetanus	21
+COUNTRIES	AFG	Afghanistan	2012	PERTUSSIS	Pertussis	1497
+COUNTRIES	AFG	Afghanistan	2012	POLIO	Poliomyelitis	46
+COUNTRIES	AFG	Afghanistan	2012	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2012	TTETANUS	Total tetanus	37
+COUNTRIES	AFG	Afghanistan	2012	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2011	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2011	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2011	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2011	MEASLES	Measles	3013
+COUNTRIES	AFG	Afghanistan	2011	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2011	NTETANUS	Neonatal tetanus	20
+COUNTRIES	AFG	Afghanistan	2011	PERTUSSIS	Pertussis	0
+COUNTRIES	AFG	Afghanistan	2011	POLIO	Poliomyelitis	81
+COUNTRIES	AFG	Afghanistan	2011	RUBELLA	Rubella	750
+COUNTRIES	AFG	Afghanistan	2011	TTETANUS	Total tetanus	20
+COUNTRIES	AFG	Afghanistan	2011	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2010	CRS	Congenital rubella syndrome	0
+COUNTRIES	AFG	Afghanistan	2010	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2010	JAPENC	Japanese encephalitis	0
+COUNTRIES	AFG	Afghanistan	2010	MEASLES	Measles	1989
+COUNTRIES	AFG	Afghanistan	2010	MUMPS	Mumps	0
+COUNTRIES	AFG	Afghanistan	2010	NTETANUS	Neonatal tetanus	23
+COUNTRIES	AFG	Afghanistan	2010	PERTUSSIS	Pertussis	0
+COUNTRIES	AFG	Afghanistan	2010	POLIO	Poliomyelitis	30
+COUNTRIES	AFG	Afghanistan	2010	RUBELLA	Rubella	46
+COUNTRIES	AFG	Afghanistan	2010	TTETANUS	Total tetanus	23
+COUNTRIES	AFG	Afghanistan	2010	YFEVER	Yellow fever	0
+COUNTRIES	AFG	Afghanistan	2009	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2009	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2009	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2009	MEASLES	Measles	2861
+COUNTRIES	AFG	Afghanistan	2009	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2009	NTETANUS	Neonatal tetanus	
+COUNTRIES	AFG	Afghanistan	2009	PERTUSSIS	Pertussis	0
+COUNTRIES	AFG	Afghanistan	2009	POLIO	Poliomyelitis	38
+COUNTRIES	AFG	Afghanistan	2009	RUBELLA	Rubella	501
+COUNTRIES	AFG	Afghanistan	2009	TTETANUS	Total tetanus	19
+COUNTRIES	AFG	Afghanistan	2009	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2008	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2008	DIPHTHERIA	Diphtheria	0
+COUNTRIES	AFG	Afghanistan	2008	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2008	MEASLES	Measles	1599
+COUNTRIES	AFG	Afghanistan	2008	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2008	NTETANUS	Neonatal tetanus	12
+COUNTRIES	AFG	Afghanistan	2008	PERTUSSIS	Pertussis	2448
+COUNTRIES	AFG	Afghanistan	2008	POLIO	Poliomyelitis	31
+COUNTRIES	AFG	Afghanistan	2008	RUBELLA	Rubella	415
+COUNTRIES	AFG	Afghanistan	2008	TTETANUS	Total tetanus	57
+COUNTRIES	AFG	Afghanistan	2008	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2007	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2007	DIPHTHERIA	Diphtheria	104
+COUNTRIES	AFG	Afghanistan	2007	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2007	MEASLES	Measles	1141
+COUNTRIES	AFG	Afghanistan	2007	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2007	NTETANUS	Neonatal tetanus	40
+COUNTRIES	AFG	Afghanistan	2007	PERTUSSIS	Pertussis	5904
+COUNTRIES	AFG	Afghanistan	2007	POLIO	Poliomyelitis	17
+COUNTRIES	AFG	Afghanistan	2007	RUBELLA	Rubella	152
+COUNTRIES	AFG	Afghanistan	2007	TTETANUS	Total tetanus	71
+COUNTRIES	AFG	Afghanistan	2007	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2006	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2006	DIPHTHERIA	Diphtheria	53
+COUNTRIES	AFG	Afghanistan	2006	JAPENC	Japanese encephalitis	
+COUNTRIES	AFG	Afghanistan	2006	MEASLES	Measles	1990
+COUNTRIES	AFG	Afghanistan	2006	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2006	NTETANUS	Neonatal tetanus	33
+COUNTRIES	AFG	Afghanistan	2006	PERTUSSIS	Pertussis	2515
+COUNTRIES	AFG	Afghanistan	2006	POLIO	Poliomyelitis	31
+COUNTRIES	AFG	Afghanistan	2006	RUBELLA	Rubella	196
+COUNTRIES	AFG	Afghanistan	2006	TTETANUS	Total tetanus	43
+COUNTRIES	AFG	Afghanistan	2006	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2005	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2005	DIPHTHERIA	Diphtheria	179
+COUNTRIES	AFG	Afghanistan	2005	MEASLES	Measles	1296
+COUNTRIES	AFG	Afghanistan	2005	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2005	NTETANUS	Neonatal tetanus	39
+COUNTRIES	AFG	Afghanistan	2005	PERTUSSIS	Pertussis	2173
+COUNTRIES	AFG	Afghanistan	2005	POLIO	Poliomyelitis	9
+COUNTRIES	AFG	Afghanistan	2005	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2005	TTETANUS	Total tetanus	
+COUNTRIES	AFG	Afghanistan	2005	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2004	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2004	DIPHTHERIA	Diphtheria	26
+COUNTRIES	AFG	Afghanistan	2004	MEASLES	Measles	466
+COUNTRIES	AFG	Afghanistan	2004	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2004	NTETANUS	Neonatal tetanus	81
+COUNTRIES	AFG	Afghanistan	2004	PERTUSSIS	Pertussis	558
+COUNTRIES	AFG	Afghanistan	2004	POLIO	Poliomyelitis	4
+COUNTRIES	AFG	Afghanistan	2004	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2004	TTETANUS	Total tetanus	81
+COUNTRIES	AFG	Afghanistan	2004	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2003	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2003	DIPHTHERIA	Diphtheria	79
+COUNTRIES	AFG	Afghanistan	2003	MEASLES	Measles	798
+COUNTRIES	AFG	Afghanistan	2003	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2003	NTETANUS	Neonatal tetanus	121
+COUNTRIES	AFG	Afghanistan	2003	PERTUSSIS	Pertussis	
+COUNTRIES	AFG	Afghanistan	2003	POLIO	Poliomyelitis	8
+COUNTRIES	AFG	Afghanistan	2003	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2003	TTETANUS	Total tetanus	121
+COUNTRIES	AFG	Afghanistan	2003	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2002	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2002	DIPHTHERIA	Diphtheria	854
+COUNTRIES	AFG	Afghanistan	2002	MEASLES	Measles	2486
+COUNTRIES	AFG	Afghanistan	2002	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2002	NTETANUS	Neonatal tetanus	595
+COUNTRIES	AFG	Afghanistan	2002	PERTUSSIS	Pertussis	1439
+COUNTRIES	AFG	Afghanistan	2002	POLIO	Poliomyelitis	10
+COUNTRIES	AFG	Afghanistan	2002	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2002	TTETANUS	Total tetanus	975
+COUNTRIES	AFG	Afghanistan	2002	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2001	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2001	DIPHTHERIA	Diphtheria	
+COUNTRIES	AFG	Afghanistan	2001	MEASLES	Measles	8762
+COUNTRIES	AFG	Afghanistan	2001	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2001	NTETANUS	Neonatal tetanus	211
+COUNTRIES	AFG	Afghanistan	2001	PERTUSSIS	Pertussis	
+COUNTRIES	AFG	Afghanistan	2001	POLIO	Poliomyelitis	11
+COUNTRIES	AFG	Afghanistan	2001	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2001	TTETANUS	Total tetanus	
+COUNTRIES	AFG	Afghanistan	2001	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	2000	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	2000	DIPHTHERIA	Diphtheria	84
+COUNTRIES	AFG	Afghanistan	2000	MEASLES	Measles	6532
+COUNTRIES	AFG	Afghanistan	2000	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	2000	NTETANUS	Neonatal tetanus	139
+COUNTRIES	AFG	Afghanistan	2000	PERTUSSIS	Pertussis	896
+COUNTRIES	AFG	Afghanistan	2000	POLIO	Poliomyelitis	120
+COUNTRIES	AFG	Afghanistan	2000	RUBELLA	Rubella	
+COUNTRIES	AFG	Afghanistan	2000	TTETANUS	Total tetanus	
+COUNTRIES	AFG	Afghanistan	2000	YFEVER	Yellow fever	
+COUNTRIES	AFG	Afghanistan	1999	CRS	Congenital rubella syndrome	
+COUNTRIES	AFG	Afghanistan	1999	DIPHTHERIA	Diphtheria	297
+COUNTRIES	AFG	Afghanistan	1999	MEASLES	Measles	3609
+COUNTRIES	AFG	Afghanistan	1999	MUMPS	Mumps	
+COUNTRIES	AFG	Afghanistan	1999	NTETANUS	Neonatal tetanus	88
+COUNTRIES	AFG	Afghanistan	1999	PERTUSSIS	Pertussis	1582
+COUNTRIES	AFG	Afghanistan	1999	POLIO	Poliomyelitis	150
+COUNTRIES	AFG	Afghanistan	1999	RUBELLA	Rubella	
+
+vaccine-introduction-data.xlsx
+ISO_3_CODE	COUNTRYNAME	WHO_REGION	YEAR	DESCRIPTION	INTRO
+AFG	Afghanistan	EMRO	2023	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2023	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2023	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2023	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2023	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2023	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2023	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2023	IPV (Inactivated polio vaccine) 2nd dose	Yes
+AFG	Afghanistan	EMRO	2023	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2023	Malaria vaccine	No
+AFG	Afghanistan	EMRO	2023	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2023	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2023	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2023	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2023	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2023	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2023	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2023	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2023	Typhoid	No
+AFG	Afghanistan	EMRO	2023	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2023	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2022	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2022	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2022	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2022	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2022	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2022	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2022	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2022	IPV (Inactivated polio vaccine) 2nd dose	Yes
+AFG	Afghanistan	EMRO	2022	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2022	Malaria vaccine	No
+AFG	Afghanistan	EMRO	2022	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2022	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2022	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2022	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2022	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2022	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2022	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2022	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2022	Typhoid	No
+AFG	Afghanistan	EMRO	2022	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2022	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2021	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2021	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2021	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2021	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2021	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2021	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2021	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2021	IPV (Inactivated polio vaccine) 2nd dose	Yes
+AFG	Afghanistan	EMRO	2021	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2021	Malaria vaccine	No
+AFG	Afghanistan	EMRO	2021	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2021	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2021	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2021	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2021	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2021	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2021	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2021	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2021	Typhoid	No
+AFG	Afghanistan	EMRO	2021	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2021	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2020	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2020	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2020	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2020	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2020	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2020	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2020	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2020	IPV (Inactivated polio vaccine) 2nd dose	Yes
+AFG	Afghanistan	EMRO	2020	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2020	Malaria vaccine	No
+AFG	Afghanistan	EMRO	2020	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2020	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2020	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2020	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2020	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2020	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2020	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2020	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2020	Typhoid	No
+AFG	Afghanistan	EMRO	2020	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2020	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2019	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2019	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2019	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2019	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2019	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2019	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2019	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2019	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2019	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2019	Malaria vaccine	No
+AFG	Afghanistan	EMRO	2019	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2019	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2019	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2019	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2019	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2019	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2019	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2019	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2019	Typhoid	No
+AFG	Afghanistan	EMRO	2019	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2019	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2018	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2018	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2018	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2018	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2018	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2018	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2018	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2018	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2018	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2018	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2018	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2018	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2018	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2018	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2018	Rotavirus vaccine	Yes
+AFG	Afghanistan	EMRO	2018	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2018	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2018	Typhoid	No
+AFG	Afghanistan	EMRO	2018	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2018	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2017	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2017	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2017	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2017	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2017	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2017	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2017	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2017	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2017	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2017	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2017	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2017	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2017	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2017	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2017	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2017	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2017	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2017	Typhoid	No
+AFG	Afghanistan	EMRO	2017	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2017	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2016	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2016	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2016	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2016	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2016	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2016	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2016	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2016	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2016	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2016	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2016	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2016	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2016	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2016	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2016	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2016	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2016	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2016	Typhoid	No
+AFG	Afghanistan	EMRO	2016	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2016	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2015	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2015	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2015	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2015	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2015	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2015	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2015	IPV (Inactivated polio vaccine)	Yes
+AFG	Afghanistan	EMRO	2015	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2015	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2015	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2015	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2015	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2015	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2015	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2015	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2015	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2015	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2015	Typhoid	No
+AFG	Afghanistan	EMRO	2015	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2015	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2014	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2014	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2014	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2014	HepB birth dose	Yes
+AFG	Afghanistan	EMRO	2014	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2014	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2014	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2014	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2014	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2014	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2014	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2014	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2014	PCV (Pneumococcal conjugate vaccine)	Yes
+AFG	Afghanistan	EMRO	2014	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2014	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2014	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2014	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2014	Typhoid	No
+AFG	Afghanistan	EMRO	2014	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2014	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2013	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2013	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2013	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2013	HepB birth dose	No
+AFG	Afghanistan	EMRO	2013	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2013	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2013	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2013	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2013	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2013	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2013	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2013	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2013	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2013	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2013	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2013	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2013	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2013	Typhoid	No
+AFG	Afghanistan	EMRO	2013	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2013	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2012	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2012	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2012	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2012	HepB birth dose	No
+AFG	Afghanistan	EMRO	2012	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2012	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2012	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2012	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2012	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2012	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2012	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2012	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2012	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2012	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2012	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2012	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2012	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2012	Typhoid	No
+AFG	Afghanistan	EMRO	2012	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2012	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2011	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2011	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2011	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2011	HepB birth dose	No
+AFG	Afghanistan	EMRO	2011	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2011	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2011	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2011	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2011	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2011	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2011	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2011	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2011	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2011	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2011	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2011	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2011	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2011	Typhoid	No
+AFG	Afghanistan	EMRO	2011	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2011	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2010	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2010	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2010	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2010	HepB birth dose	No
+AFG	Afghanistan	EMRO	2010	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2010	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2010	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2010	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2010	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2010	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2010	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2010	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2010	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2010	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2010	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2010	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2010	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2010	Typhoid	No
+AFG	Afghanistan	EMRO	2010	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2010	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2009	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2009	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2009	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2009	HepB birth dose	No
+AFG	Afghanistan	EMRO	2009	Hib (Haemophilus influenzae type B) vaccine	Yes
+AFG	Afghanistan	EMRO	2009	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2009	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2009	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2009	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2009	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2009	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2009	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2009	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2009	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2009	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2009	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2009	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2009	Typhoid	No
+AFG	Afghanistan	EMRO	2009	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2009	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2008	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2008	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2008	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2008	HepB birth dose	No
+AFG	Afghanistan	EMRO	2008	Hib (Haemophilus influenzae type B) vaccine	No
+AFG	Afghanistan	EMRO	2008	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2008	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2008	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2008	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2008	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2008	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2008	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2008	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2008	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2008	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2008	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2008	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2008	Typhoid	No
+AFG	Afghanistan	EMRO	2008	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2008	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2007	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2007	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2007	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2007	HepB birth dose	No
+AFG	Afghanistan	EMRO	2007	Hib (Haemophilus influenzae type B) vaccine	No
+AFG	Afghanistan	EMRO	2007	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2007	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2007	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2007	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2007	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2007	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2007	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2007	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2007	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2007	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2007	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2007	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2007	Typhoid	No
+AFG	Afghanistan	EMRO	2007	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2007	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2006	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2006	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2006	Hepatitis B vaccine	Yes
+AFG	Afghanistan	EMRO	2006	HepB birth dose	No
+AFG	Afghanistan	EMRO	2006	Hib (Haemophilus influenzae type B) vaccine	No
+AFG	Afghanistan	EMRO	2006	HPV (Human Papilloma Virus) vaccine	No
+AFG	Afghanistan	EMRO	2006	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2006	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2006	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2006	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2006	Meningococcal meningitis vaccines (all strains)	No
+AFG	Afghanistan	EMRO	2006	Mumps vaccine	No
+AFG	Afghanistan	EMRO	2006	PCV (Pneumococcal conjugate vaccine)	No
+AFG	Afghanistan	EMRO	2006	PPV (Pneumococcal polysaccharide vaccine)	No
+AFG	Afghanistan	EMRO	2006	Rotavirus vaccine	No
+AFG	Afghanistan	EMRO	2006	Rubella vaccine	No
+AFG	Afghanistan	EMRO	2006	Seasonal Influenza vaccine	No
+AFG	Afghanistan	EMRO	2006	Typhoid	No
+AFG	Afghanistan	EMRO	2006	Varicella vaccine	No
+AFG	Afghanistan	EMRO	2006	YF (Yellow fever) vaccine	No
+AFG	Afghanistan	EMRO	2005	aP (acellular pertussis) vaccine	No
+AFG	Afghanistan	EMRO	2005	Hepatitis A vaccine	No
+AFG	Afghanistan	EMRO	2005	Hepatitis B vaccine	No
+AFG	Afghanistan	EMRO	2005	HepB birth dose	No
+AFG	Afghanistan	EMRO	2005	Hib (Haemophilus influenzae type B) vaccine	No
+AFG	Afghanistan	EMRO	2005	IPV (Inactivated polio vaccine)	No
+AFG	Afghanistan	EMRO	2005	IPV (Inactivated polio vaccine) 2nd dose	No
+AFG	Afghanistan	EMRO	2005	Japanese Encephalitis	No
+AFG	Afghanistan	EMRO	2005	Measles-containing vaccine 2nd dose	Yes
+AFG	Afghanistan	EMRO	2005	Meningococcal meningitis vaccines (all strains)	No
+
+vaccine-schedule-data.xlsx
+ISO_3_CODE	COUNTRYNAME	WHO_REGION	YEAR	VACCINECODE	VACCINE_DESCRIPTION	SCHEDULEROUNDS	TARGETPOP	TARGETPOP_DESCRIPTION	GEOAREA	AGEADMINISTERED	SOURCECOMMENT
+ABW	Aruba	AMRO	2023	DTAPHIBIPV	DTaP-Hib-IPV (acellular) vaccine	1		General/routine	NATIONAL	M2	
+ABW	Aruba	AMRO	2023	DTAPHIBIPV	DTaP-Hib-IPV (acellular) vaccine	2		General/routine	NATIONAL	M4	
+ABW	Aruba	AMRO	2023	DTAPHIBIPV	DTaP-Hib-IPV (acellular) vaccine	3		General/routine	NATIONAL	M6	
+ABW	Aruba	AMRO	2023	DTAPHIBIPV	DTaP-Hib-IPV (acellular) vaccine	4	B_2YL_W	General/routine	NATIONAL	M15	
+ABW	Aruba	AMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y4	
+ABW	Aruba	AMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	6		General/routine	NATIONAL	Y10	
+ABW	Aruba	AMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M5	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	travellers
+ABW	Aruba	AMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	2	TRAVELLERS	Travellers	NATIONAL	+M6	travellers
+ABW	Aruba	AMRO	2023	HEPA_PEDIATRIC	Pediatric Hepatitis A vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	travellers
+ABW	Aruba	AMRO	2023	HEPA_PEDIATRIC	Pediatric Hepatitis A vaccine	2	TRAVELLERS	Travellers	NATIONAL	+M6	travellers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	HW	Health workers	NATIONAL	1st contact	healthcare workers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	HW	Health workers	NATIONAL	+M5	healthcare workers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	HW	Health workers	NATIONAL	+M1	healthcare workers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M5	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	police, firemen, law-enforcement workers
+ABW	Aruba	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	M1	
+ABW	Aruba	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	2		General/routine	NATIONAL	M3	
+ABW	Aruba	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	3		General/routine	NATIONAL	M9	
+ABW	Aruba	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	FEMALE	HPV for females only	NATIONAL	Y11	females only; grade 6 primary schools
+ABW	Aruba	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	2	FEMALE	HPV for females only	NATIONAL	+M6	females only; grade 6 primary schools
+ABW	Aruba	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL		Older persons
+ABW	Aruba	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL	1st contact	Health and care workers
+ABW	Aruba	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL	1st contact	Pregnant women
+ABW	Aruba	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Adults with chronic conditions, residents living in long-term care facilities
+ABW	Aruba	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children living with long-term care facilities
+ABW	Aruba	AMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	students travelling abroad
+ABW	Aruba	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+ABW	Aruba	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y4	
+ABW	Aruba	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+ABW	Aruba	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+ABW	Aruba	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M12	
+ABW	Aruba	AMRO	2023	VARICELLA	Varicella vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	>=Y1	upon request
+ABW	Aruba	AMRO	2023	YF	YF (Yellow fever) vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	travellers to specific countries
+AFG	Afghanistan	EMRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	0-11 months
+AFG	Afghanistan	EMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	W6	0-11 months
+AFG	Afghanistan	EMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	W10	0-11 months
+AFG	Afghanistan	EMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	W14	0-11 months
+AFG	Afghanistan	EMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	New borns
+AFG	Afghanistan	EMRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	W14	0-9 months
+AFG	Afghanistan	EMRO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M9	0-9 months
+AFG	Afghanistan	EMRO	2023	MEASLES	Measles vaccine	1		General/routine	NATIONAL	M9	0-18 months
+AFG	Afghanistan	EMRO	2023	MEASLES	Measles vaccine	2		General/routine	NATIONAL	M18	0-18 months
+AFG	Afghanistan	EMRO	2023	OPV	OPV (Oral polio vaccine)	1		General/routine	NATIONAL	B	0-11 months
+AFG	Afghanistan	EMRO	2023	OPV	OPV (Oral polio vaccine)	2		General/routine	NATIONAL	W6	0-11 months
+AFG	Afghanistan	EMRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	W10	0-11 months
+AFG	Afghanistan	EMRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	W14	0-11 months
+AFG	Afghanistan	EMRO	2023	OPV	OPV (Oral polio vaccine)	5		General/routine	NATIONAL	M9	0-11 months
+AFG	Afghanistan	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	W6	0-11 months
+AFG	Afghanistan	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	W10	0-11 months
+AFG	Afghanistan	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	W14	0-11 months
+AFG	Afghanistan	EMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	W6	0-11 months
+AFG	Afghanistan	EMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	W10	0-11 months
+AFG	Afghanistan	EMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL	1st contact	Y15-Y49 (WCBA)
+AFG	Afghanistan	EMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	ADULTS	Adults	NATIONAL	+M1	Y15-Y49 (WCBA)
+AFG	Afghanistan	EMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	ADULTS	Adults	NATIONAL	+M6	Y15-Y49 (WCBA)
+AFG	Afghanistan	EMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	4	ADULTS	Adults	NATIONAL	+Y1	Y15-Y49 (WCBA)
+AFG	Afghanistan	EMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	5	ADULTS	Adults	NATIONAL	+Y1	Y15-Y49 (WCBA)
+AGO	Angola	AFRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	0-11 mois
+AGO	Angola	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	0-11 mois
+AGO	Angola	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M4	0-11 mois
+AGO	Angola	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	0-11 mois
+AGO	Angola	AFRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	0-7 jours
+AGO	Angola	AFRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M4	0-11 mois
+AGO	Angola	AFRO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M9	0-11 mois
+AGO	Angola	AFRO	2023	MR	MR (Measles and rubella) vaccine	1		General/routine	NATIONAL	M9	9-15 mois
+AGO	Angola	AFRO	2023	MR	MR (Measles and rubella) vaccine	2		General/routine	NATIONAL	M15	9-15 mois
+AGO	Angola	AFRO	2023	OPV	OPV (Oral polio vaccine)	1		General/routine	NATIONAL	B	0-11 mois
+AGO	Angola	AFRO	2023	OPV	OPV (Oral polio vaccine)	2		General/routine	NATIONAL	M2	0-11 mois
+AGO	Angola	AFRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	M4	0-11 mois
+AGO	Angola	AFRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	M6	0-11 mois
+AGO	Angola	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	0-11 mois
+AGO	Angola	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	0-11 mois
+AGO	Angola	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M6	0-11 mois
+AGO	Angola	AFRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	M2	0-11 mois
+AGO	Angola	AFRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M4	0-11 mois
+AGO	Angola	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	PW	Pregnant women	NATIONAL	1st contact	1st contact grossesse
+AGO	Angola	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	PW	Pregnant women	NATIONAL	+M1	1st contact grossesse
+AGO	Angola	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	PW	Pregnant women	NATIONAL	+M6	1st contact grossesse
+AGO	Angola	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	4	PW	Pregnant women	NATIONAL	+Y1	1st contact grossesse
+AGO	Angola	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	5	PW	Pregnant women	NATIONAL	+Y1	1st contact grossesse
+AGO	Angola	AFRO	2023	TT	TT (Tetanus toxoid) vaccine	1	ADULTS	Adults	NATIONAL	Y15-Y49	15-49 A
+AGO	Angola	AFRO	2023	VITAMINA	Vitamin A supplements	1		General/routine	NATIONAL	M6	0-11 mois
+AGO	Angola	AFRO	2023	VITAMINA	Vitamin A supplements	2		General/routine	NATIONAL	M9	0-11 mois
+AGO	Angola	AFRO	2023	YF	YF (Yellow fever) vaccine	1		General/routine	NATIONAL	M9	0-11 mois
+AIA	Anguilla	AMRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	birth - 11 months
+AIA	Anguilla	AMRO	2023	DTWP	DTwP (Whole cell) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	
+AIA	Anguilla	AMRO	2023	DTWP	DTwP (Whole cell) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y4-Y5	
+AIA	Anguilla	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	
+AIA	Anguilla	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M4	
+AIA	Anguilla	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	ADULTS	Adults	NATIONAL	1st contact	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	ADULTS	Adults	NATIONAL	+M1	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	ADULTS	Adults	NATIONAL	+M6	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	HW	Health workers	NATIONAL	+M6	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	HW	Health workers	NATIONAL	+M1	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	HW	Health workers	NATIONAL	1st contact	adults and recommended for all health workers with no previous vaccination history (but uptake is low, it is not mandatory)
+AIA	Anguilla	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	from May 2019
+AIA	Anguilla	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	CATCHUP_A	Catch-up adults	NATIONAL	<Y25	Single dose is offered to males and females ages 9-15+.  (one dose also offered to older females up to 25 years of age)
+AIA	Anguilla	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	CATCHUP_C	Catch-up children	NATIONAL	<Y25	Single dose is offered to males and females ages 9-15+.  (one dose also offered to older females up to 25 years of age)
+AIA	Anguilla	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	BOTH	HPV administered to females and males	NATIONAL	Y9-15	Single dose is offered to males and females ages 9-15+.  (one dose also offered to older females up to 25 years of age)
+AIA	Anguilla	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1		General/routine	NATIONAL	>Y18	and older persons
+AIA	Anguilla	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+AIA	Anguilla	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+AIA	Anguilla	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities
+AIA	Anguilla	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	>=M6	
+AIA	Anguilla	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M2	
+AIA	Anguilla	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M4	
+AIA	Anguilla	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	Y1	12 month old and 24 months old
+AIA	Anguilla	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y2	12 month old and 24 months old
+AIA	Anguilla	AMRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	M6	
+AIA	Anguilla	AMRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	M18	
+AIA	Anguilla	AMRO	2023	OPV	OPV (Oral polio vaccine)	5		General/routine	NATIONAL	Y4-Y5	
+AIA	Anguilla	AMRO	2023	OPV	OPV (Oral polio vaccine)	6		General/routine	NATIONAL	Y15	
+AIA	Anguilla	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+AIA	Anguilla	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+AIA	Anguilla	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M6	
+AIA	Anguilla	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	4		General/routine	NATIONAL	M18	
+AIA	Anguilla	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y15	15 yrs
+AIA	Anguilla	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	PW	Pregnant women	NATIONAL	1st contact	pregnant women
+AIA	Anguilla	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	PW	Pregnant women	NATIONAL	+W4	pregnant women
+AIA	Anguilla	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	PW	Pregnant women	NATIONAL	+M6-Y1	pregnant women
+AIA	Anguilla	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	>Y4	Children over 4 yrs of age and older with incomplete vaccinations/history of febrile seizers. Adults travelers, Adults with unknown previous vaccination history
+AIA	Anguilla	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	TRAVELLERS	Travellers	NATIONAL		Adults travelers
+AIA	Anguilla	AMRO	2023	VARICELLA	Varicella vaccine	1		General/routine	NATIONAL	M15	
+AIA	Anguilla	AMRO	2023	VARICELLA	Varicella vaccine	2		General/routine	NATIONAL	Y4-Y5	
+AIA	Anguilla	AMRO	2023	YF	YF (Yellow fever) vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	travellers
+ALB	Albania	EURO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	
+ALB	Albania	EURO	2023	DT	DT (Tetanus toxoid and diphtheria, children's dose) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y6	
+ALB	Albania	EURO	2023	DTWP	DTwP (Whole cell) vaccine	4	B_2YL_F	General/routine	NATIONAL	Y2	
+ALB	Albania	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	
+ALB	Albania	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M4	
+ALB	Albania	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	
+ALB	Albania	EURO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	
+ALB	Albania	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	FEMALE	HPV for females only	NATIONAL	Y13	Female from November 2022
+ALB	Albania	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>Y18	and older persons
+ALB	Albania	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+ALB	Albania	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ALB	Albania	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities, other groups
+ALB	Albania	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	2		General/routine	NATIONAL	>Y9	
+ALB	Albania	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-Y9	
+ALB	Albania	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+ALB	Albania	EURO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M2	
+ALB	Albania	EURO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M4	
+ALB	Albania	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	Y1	
+ALB	Albania	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y5	
+ALB	Albania	EURO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	M6	
+ALB	Albania	EURO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	Y2	
+ALB	Albania	EURO	2023	OPV	OPV (Oral polio vaccine)	5		General/routine	NATIONAL	Y6	
+ALB	Albania	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+ALB	Albania	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+ALB	Albania	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M12	
+ALB	Albania	EURO	2023	ROTAVIRUS_5	RV-5 (Rotavirus 5-valent) vaccine	1		General/routine	NATIONAL	M2	
+ALB	Albania	EURO	2023	ROTAVIRUS_5	RV-5 (Rotavirus 5-valent) vaccine	2		General/routine	NATIONAL	M4	
+ALB	Albania	EURO	2023	ROTAVIRUS_5	RV-5 (Rotavirus 5-valent) vaccine	3		General/routine	NATIONAL	M6	
+ALB	Albania	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL	Y18	
+ALB	Albania	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y13	
+AND	Andorra	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1		General/routine	NATIONAL	M2	
+AND	Andorra	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2		General/routine	NATIONAL	M4	
+AND	Andorra	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	3		General/routine	NATIONAL	M12	
+AND	Andorra	EURO	2023	HPV2	HPV-2 (Human Papilloma Virus 2-valent) vaccine	1	FEMALE	HPV for females only	NATIONAL	Y12	Females; A partir del 15 de noviembre del 2023 se incluyen en la vacunación los niños tambien
+AND	Andorra	EURO	2023	HPV2	HPV-2 (Human Papilloma Virus 2-valent) vaccine	2	FEMALE	HPV for females only	NATIONAL	+M6	Females; A partir del 15 de noviembre del 2023 se incluyen en la vacunación los niños tambien
+AND	Andorra	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>=Y65	
+AND	Andorra	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+AND	Andorra	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+AND	Andorra	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities, other groups
+AND	Andorra	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+AND	Andorra	EURO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	M15	
+AND	Andorra	EURO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	2		General/routine	NATIONAL	Y12	
+AND	Andorra	EURO	2023	MEN_B	Meningococcal B vaccine	1		General/routine	NATIONAL	M2	
+AND	Andorra	EURO	2023	MEN_B	Meningococcal B vaccine	2		General/routine	NATIONAL	M4	
+AND	Andorra	EURO	2023	MEN_B	Meningococcal B vaccine	3		General/routine	NATIONAL	M13	
+AND	Andorra	EURO	2023	MEN_C_CONJ	Meningococcal C conjugate vaccine	1		General/routine	NATIONAL	M4	
+AND	Andorra	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+AND	Andorra	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y3	
+AND	Andorra	EURO	2023	MPOX	Mpox (monkeypox) vaccine	1	HW	Health workers	NATIONAL	1st contact	HCW, contacts of a positive case with priority given to the less than 18 years, Pregnant women and persons immunocpmpromised
+AND	Andorra	EURO	2023	MPOX	Mpox (monkeypox) vaccine	1	PW	Pregnant women	NATIONAL	1st contact	HCW, contacts of a positive case with priority given to the less than 18 years, Pregnant women and persons immunocpmpromised
+AND	Andorra	EURO	2023	MPOX	Mpox (monkeypox) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	HCW, contacts of a positive case with priority given to the less than 18 years, Pregnant women and persons immunocpmpromised
+AND	Andorra	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M3	
+AND	Andorra	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M5	
+AND	Andorra	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M13	
+AND	Andorra	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	M2	
+AND	Andorra	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M3	
+AND	Andorra	EURO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	PW	Pregnant women	NATIONAL		Embarazadas
+AND	Andorra	EURO	2023	TDAP_S_IPV	Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine	4	B_CHILD_W	General/routine	NATIONAL	Y5	
+AND	Andorra	EURO	2023	TDAP_S_IPV	Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine	5	B_ADO_W	General/routine	NATIONAL	Y15	
+AND	Andorra	EURO	2023	VARICELLA	Varicella vaccine	1		General/routine	NATIONAL	M15	
+AND	Andorra	EURO	2023	VARICELLA	Varicella vaccine	2		General/routine	NATIONAL	Y3	
+ARE	United Arab Emirates	EMRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	newborn
+ARE	United Arab Emirates	EMRO	2023	CHOLERA	Cholera vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1		General/routine	NATIONAL	M2	
+ARE	United Arab Emirates	EMRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2		General/routine	NATIONAL	M4	
+ARE	United Arab Emirates	EMRO	2023	DTAPHIBIPV	DTaP-Hib-IPV (acellular) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	
+ARE	United Arab Emirates	EMRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y5-Y6	
+ARE	United Arab Emirates	EMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	
+ARE	United Arab Emirates	EMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		risk groups
+ARE	United Arab Emirates	EMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	risk groups
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	risk groups
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M6	risk groups
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	TRAVELLERS	Travellers	NATIONAL	+M6	travellers
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	TRAVELLERS	Travellers	NATIONAL	+M1	travellers
+ARE	United Arab Emirates	EMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	travellers
+ARE	United Arab Emirates	EMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	
+ARE	United Arab Emirates	EMRO	2023	HIB	Hib (Haemophilus influenzae type B) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		high risk groups
+ARE	United Arab Emirates	EMRO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	1	FEMALE	HPV for females only	NATIONAL	Y13	school students
+ARE	United Arab Emirates	EMRO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	2	FEMALE	HPV for females only	NATIONAL	+M6	school students
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>Y18	and older persons
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents in long-term care facilities, other groups
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	>=M6	
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	2		General/routine	NATIONAL	>=M6	
+ARE	United Arab Emirates	EMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+ARE	United Arab Emirates	EMRO	2023	IPV	IPV (Inactivated polio vaccine)	1	RISKGROUPS	Risk group(s)	NATIONAL		high risk groups
+ARE	United Arab Emirates	EMRO	2023	IPV	IPV (Inactivated polio vaccine)	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	Y15-Y16	school students
+ARE	United Arab Emirates	EMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1	TRAVELLERS	Travellers	NATIONAL		Travellers / Pilgrims
+ARE	United Arab Emirates	EMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+ARE	United Arab Emirates	EMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	M18	
+ARE	United Arab Emirates	EMRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	M6	
+ARE	United Arab Emirates	EMRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	M18	
+ARE	United Arab Emirates	EMRO	2023	OPV	OPV (Oral polio vaccine)	5		General/routine	NATIONAL	Y5-Y6	
+ARE	United Arab Emirates	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+ARE	United Arab Emirates	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M6	
+ARE	United Arab Emirates	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+ARE	United Arab Emirates	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		risk groups
+ARE	United Arab Emirates	EMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		risk groups
+ARE	United Arab Emirates	EMRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	M2	
+ARE	United Arab Emirates	EMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M4	
+ARE	United Arab Emirates	EMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	ADULTS	Adults	NATIONAL		adults
+ARE	United Arab Emirates	EMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y15-Y16	school students
+ARE	United Arab Emirates	EMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		risk groups
+ARE	United Arab Emirates	EMRO	2023	TYPHOID_CONJ	Typhoid conjugate vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		risk groups
+ARE	United Arab Emirates	EMRO	2023	TYPHOID_CONJ	Typhoid conjugate vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	VARICELLA	Varicella vaccine	1		General/routine	NATIONAL	M12	
+ARE	United Arab Emirates	EMRO	2023	VARICELLA	Varicella vaccine	2		General/routine	NATIONAL	Y5-Y6	
+ARE	United Arab Emirates	EMRO	2023	YF	YF (Yellow fever) vaccine	1	TRAVELLERS	Travellers	NATIONAL		travellers
+ARE	United Arab Emirates	EMRO	2023	ZOSTER	Shingles (Herpes zoster for older adults) vaccine	1	ADULTS	Adults	NATIONAL	>=Y50	people 50 years old and above
+ARE	United Arab Emirates	EMRO	2023	ZOSTER	Shingles (Herpes zoster for older adults) vaccine	2	ADULTS	Adults	NATIONAL	+M6	people 50 years old and above
+ARG	Argentina	AMRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	
+ARG	Argentina	AMRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	M2	Nacidos pretérmino con peso inferior a 1500 g y menores de 6 meses
+ARG	Argentina	AMRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	M4	Nacidos pretérmino con peso inferior a 1500 g y menores de 6 meses
+ARG	Argentina	AMRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	M6	Nacidos pretérmino con peso inferior a 1500 g y menores de 6 meses
+ARG	Argentina	AMRO	2023	DTWP	DTwP (Whole cell) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y5	
+ARG	Argentina	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	
+ARG	Argentina	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M4	
+ARG	Argentina	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	
+ARG	Argentina	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	4	B_2YL_W	General/routine	NATIONAL	M15-M18	
+ARG	Argentina	AMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Indicaciones especiales: HSH, pacientes con desórdenes de la coagulación, enfermedad hepática crónica, trabajo con el VHA en laboratorios, personal gastronómico, personal de jardines maternales que asisten a niños menores de un año de vida.
+ARG	Argentina	AMRO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M6	Indicaciones especiales: HSH, pacientes con desórdenes de la coagulación, enfermedad hepática crónica, trabajo con el VHA en laboratorios, personal gastronómico, personal de jardines maternales que asisten a niños menores de un año de vida.
+ARG	Argentina	AMRO	2023	HEPA_PEDIATRIC	Pediatric Hepatitis A vaccine	1		General/routine	NATIONAL	M12	
+ARG	Argentina	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	ADULTS	Adults	NATIONAL	1st contact	Universal
+ARG	Argentina	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	ADULTS	Adults	NATIONAL	+M1	Universal
+ARG	Argentina	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	ADULTS	Adults	NATIONAL	+M6	Universal
+ARG	Argentina	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	
+ARG	Argentina	AMRO	2023	HIB	Hib (Haemophilus influenzae type B) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Huéspedes especiales
+ARG	Argentina	AMRO	2023	HIB	Hib (Haemophilus influenzae type B) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M2	Huéspedes especiales
+ARG	Argentina	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	BOTH	HPV administered to females and males	NATIONAL	Y11	Esquema de dos dosis (0-6) aplicado a los 11 años en mujeres nacidas a partir del año 2000 y varones nacidos a partir del año 2006.
+ARG	Argentina	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	2	BOTH	HPV administered to females and males	NATIONAL	+M6	Esquema de dos dosis (0-6) aplicado a los 11 años en mujeres nacidas a partir del año 2000 y varones nacidos a partir del año 2006.
+ARG	Argentina	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>=Y65	
+ARG	Argentina	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+ARG	Argentina	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ARG	Argentina	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities, other groups
+ARG	Argentina	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-M24	
+ARG	Argentina	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+ARG	Argentina	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M2	
+ARG	Argentina	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M4	
+ARG	Argentina	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	3		General/routine	NATIONAL	M6	
+ARG	Argentina	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	5		General/routine	NATIONAL	Y5	
+ARG	Argentina	AMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	M3	
+ARG	Argentina	AMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	2		General/routine	NATIONAL	M5	
+ARG	Argentina	AMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	3		General/routine	NATIONAL	M15	
+ARG	Argentina	AMRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	4		General/routine	NATIONAL	Y11	
+ARG	Argentina	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	Y1	11 años se puede iniciar o completar esquema
+ARG	Argentina	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y5	11 años se puede iniciar o completar esquema
+ARG	Argentina	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Puérperas. Adultos y niños de poblaciones seleccionadas para actividades intensificadas de vacunación para contención de brote de sarampión.
+ARG	Argentina	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	Puérperas. Adultos y niños de poblaciones seleccionadas para actividades intensificadas de vacunación para contención de brote de sarampión.
+ARG	Argentina	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	También como parte del esquema secuencial con la PS23V para grupos de riesgo
+ARG	Argentina	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	También como parte del esquema secuencial con la PS23V para grupos de riesgo
+ARG	Argentina	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M12	También como parte del esquema secuencial con la PS23V para grupos de riesgo
+ARG	Argentina	AMRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	ADULTS	Adults	NATIONAL	>Y65	
+ARG	Argentina	AMRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Grupos de riesgo 1er contacto. También como parte del esquema secuencial con la PC13V para grupos de riesgo
+ARG	Argentina	AMRO	2023	RABIES	Rabies vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Esquema Zagreb (0-0-7-21) para profilaxis postexposición y Profilaxis pre exposicion (0-7) para personal que trabaja con el virus en laboratorio o personas que trabajan con animales potencialmente rabiosos. Para profilaxis post-exposición cuando esté indicado su uso
+ARG	Argentina	AMRO	2023	RABIES	Rabies vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+D7	Esquema Zagreb (0-0-7-21) para profilaxis postexposición y Profilaxis pre exposicion (0-7) para personal que trabaja con el virus en laboratorio o personas que trabajan con animales potencialmente rabiosos. Para profilaxis post-exposición cuando esté indicado su uso
+ARG	Argentina	AMRO	2023	RABIES	Rabies vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+D21	Esquema Zagreb (0-0-7-21) para profilaxis postexposición y Profilaxis pre exposicion (0-7) para personal que trabaja con el virus en laboratorio o personas que trabajan con animales potencialmente rabiosos. Para profilaxis post-exposición cuando esté indicado su uso
+ARG	Argentina	AMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	M2	
+ARG	Argentina	AMRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M4	
+ARG	Argentina	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL		Para quellos adultos que no acrediten esquema completo en la infancia. Si acredita esquema completo se aplica un refuerzo de DT cada 10 años.
+ARG	Argentina	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	Para quellos adultos que no acrediten esquema completo en la infancia. Si acredita esquema completo se aplica un refuerzo de DT cada 10 años.
+ARG	Argentina	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M6-M12	Para quellos adultos que no acrediten esquema completo en la infancia. Si acredita esquema completo se aplica un refuerzo de DT cada 10 años.
+ARG	Argentina	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Para quellos adultos que no acrediten esquema completo en la infancia. Si acredita esquema completo se aplica un refuerzo de DT cada 10 años.
+ARG	Argentina	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y11	
+ARG	Argentina	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	HW	Health workers	NATIONAL	1st contact	Embarazadas a partir de la semana 20 (en cada embarazo), convivientes de RN con menos de 1500g y personal de salud que presta cuidado a niños menores de 12 meses (revacunar cada 5 años).
+ARG	Argentina	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	2	HW	Health workers	NATIONAL	+Y5	Embarazadas a partir de la semana 20 (en cada embarazo), convivientes de RN con menos de 1500g y personal de salud que presta cuidado a niños menores de 12 meses (revacunar cada 5 años).
+ARG	Argentina	AMRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	PW	Pregnant women	NATIONAL	1st contact	Embarazadas a partir de la semana 20 (en cada embarazo), convivientes de RN con menos de 1500g y personal de salud que presta cuidado a niños menores de 12 meses (revacunar cada 5 años).
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	1		General/routine	NATIONAL	M15	También forma parte de la estrategia para huespedes especiales
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	2		General/routine	NATIONAL	Y5	También forma parte de la estrategia para huespedes especiales
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	1	HW	Health workers	NATIONAL	1st contact	1. Personal de salud sin antecedentes de infección y con serología negativa 2. Convivientes de inmunocomprometidos 3. Huéspedes en situaciones especiales: - niños con VIH con CD4 ≥ 15% o adolescentes y adultos con CD4 ≥ 200/mm³ - pacientes con deterioro de la inmunidad humoral, sin requerimiento de tratamiento sustitutivo con Inmunoglobulina  EV (ver cuadro 2) - pacientes en plan de recibir trasplante de órgano sólido (por lo menos tres semanas previas al inicio del tratamiento  inmunosupresor) - pacientes con leucemias, linfomas y otras enfermedades malignas con enfermedad en remisión y quienes hubiesen terminado el tratamiento quimioterápico al menos tres meses antes. - síndrome nefrótico
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	2	HW	Health workers	NATIONAL	+M1	1. Personal de salud sin antecedentes de infección y con serología negativa 2. Convivientes de inmunocomprometidos 3. Huéspedes en situaciones especiales: - niños con VIH con CD4 ≥ 15% o adolescentes y adultos con CD4 ≥ 200/mm³ - pacientes con deterioro de la inmunidad humoral, sin requerimiento de tratamiento sustitutivo con Inmunoglobulina  EV (ver cuadro 2) - pacientes en plan de recibir trasplante de órgano sólido (por lo menos tres semanas previas al inicio del tratamiento  inmunosupresor) - pacientes con leucemias, linfomas y otras enfermedades malignas con enfermedad en remisión y quienes hubiesen terminado el tratamiento quimioterápico al menos tres meses antes. - síndrome nefrótico
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	1. Personal de salud sin antecedentes de infección y con serología negativa 2. Convivientes de inmunocomprometidos 3. Huéspedes en situaciones especiales: - niños con VIH con CD4 ≥ 15% o adolescentes y adultos con CD4 ≥ 200/mm³ - pacientes con deterioro de la inmunidad humoral, sin requerimiento de tratamiento sustitutivo con Inmunoglobulina  EV (ver cuadro 2) - pacientes en plan de recibir trasplante de órgano sólido (por lo menos tres semanas previas al inicio del tratamiento  inmunosupresor) - pacientes con leucemias, linfomas y otras enfermedades malignas con enfermedad en remisión y quienes hubiesen terminado el tratamiento quimioterápico al menos tres meses antes. - síndrome nefrótico
+ARG	Argentina	AMRO	2023	VARICELLA	Varicella vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	1. Personal de salud sin antecedentes de infección y con serología negativa 2. Convivientes de inmunocomprometidos 3. Huéspedes en situaciones especiales: - niños con VIH con CD4 ≥ 15% o adolescentes y adultos con CD4 ≥ 200/mm³ - pacientes con deterioro de la inmunidad humoral, sin requerimiento de tratamiento sustitutivo con Inmunoglobulina  EV (ver cuadro 2) - pacientes en plan de recibir trasplante de órgano sólido (por lo menos tres semanas previas al inicio del tratamiento  inmunosupresor) - pacientes con leucemias, linfomas y otras enfermedades malignas con enfermedad en remisión y quienes hubiesen terminado el tratamiento quimioterápico al menos tres meses antes. - síndrome nefrótico
+ARG	Argentina	AMRO	2023	YF	YF (Yellow fever) vaccine	1		General/routine	SUBNATIONAL	M18	En zonas seleccionadas de riesgo
+ARG	Argentina	AMRO	2023	YF	YF (Yellow fever) vaccine	2		General/routine	SUBNATIONAL	Y11	En zonas seleccionadas de riesgo
+ARG	Argentina	AMRO	2023	YF	YF (Yellow fever) vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st Contact	Viajeros
+ARM	Armenia	EURO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	После рождения в течение 0-48 часа, после роддома  получают до 1 года в поликлинике.
+ARM	Armenia	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1		General/routine	NATIONAL	W6	До 11 месяцев 29 дней
+ARM	Armenia	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2		General/routine	NATIONAL	W12	До 11 месяцев 29 дней
+ARM	Armenia	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	3		General/routine	NATIONAL	W18	До 11 месяцев 29 дней
+ARM	Armenia	EURO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	
+ARM	Armenia	EURO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y6	
+ARM	Armenia	EURO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	1		General/routine	NATIONAL	Y15-Y16	только  юноши допризывного возраста 15-16 лет, вторая доза через 6 месяцев после первой дозы
+ARM	Armenia	EURO	2023	HEPA_ADULT	Adult Hepatitis A vaccine	2		General/routine	NATIONAL	+M6	только  юноши допризывного возраста 15-16 лет, вторая доза через 6 месяцев после первой дозы
+ARM	Armenia	EURO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	лица с повышенным риском заболевания по схеме 0-1-6 месяцев
+ARM	Armenia	EURO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	лица с повышенным риском заболевания по схеме 0-1-6 месяцев
+ARM	Armenia	EURO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M6	лица с повышенным риском заболевания по схеме 0-1-6 месяцев
+ARM	Armenia	EURO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	После рождения в течение 0-24 часа, после роддома моно вакцину против Гепатита В для детей в поликлиниках не получают, в дальнейшем только получают в составе шестивалентной вакцины
+ARM	Armenia	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	FEMALE	HPV for females only	NATIONAL	Y14	только девочкам  в возрасте 14 лет- две дозы (вторая доза через 6 месяцев после первой)
+ARM	Armenia	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	2	FEMALE	HPV for females only	NATIONAL	+M6	только девочкам  в возрасте 14 лет- две дозы (вторая доза через 6 месяцев после первой)
+ARM	Armenia	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M2	15 до 45 лет -девочки и юноши, а также женщины и мужчины- три дозы ( 0,2,6 месяцев- интервал  между первой и третьей дозой 6 месяцев)
+ARM	Armenia	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M6	15 до 45 лет -девочки и юноши, а также женщины и мужчины- три дозы ( 0,2,6 месяцев- интервал  между первой и третьей дозой 6 месяцев)
+ARM	Armenia	EURO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	Y15-Y45	15 до 45 лет -девочки и юноши, а также женщины и мужчины- три дозы ( 0,2,6 месяцев- интервал  между первой и третьей дозой 6 месяцев)
+ARM	Armenia	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>=Y65	
+ARM	Armenia	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+ARM	Armenia	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ARM	Armenia	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities, other groups
+ARM	Armenia	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-Y2	
+ARM	Armenia	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	2		General/routine	NATIONAL	Y3-Y5	
+ARM	Armenia	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+ARM	Armenia	EURO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	Y15-Y16	только  юноши  допризывного возраста 15-16 лет
+ARM	Armenia	EURO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		лица с повышенным риском заболевания
+ARM	Armenia	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y4-Y6	
+ARM	Armenia	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	3		General/routine	NATIONAL	Y15-Y16	Третью дозу получают только юноши допризывного возраста 15-16 лет, не имеющие 2 дозы
+ARM	Armenia	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	Y1	
+ARM	Armenia	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		По эпидпоказаниям
+ARM	Armenia	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	W6	До 11 месяцев 29 дней, только  юноши допризывного возраста15-16 лет
+ARM	Armenia	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	W12	До 11 месяцев 29 дней, только  юноши допризывного возраста15-16 лет
+ARM	Armenia	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	W18	До 11 месяцев 29 дней, только  юноши допризывного возраста15-16 лет
+ARM	Armenia	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	4		General/routine	NATIONAL	Y15-Y16	До 11 месяцев 29 дней, только  юноши допризывного возраста15-16 лет
+ARM	Armenia	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		лица с повышенным риском заболевания
+ARM	Armenia	EURO	2023	RABIES	Rabies vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		По эпидпоказаниям
+ARM	Armenia	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	W6	От 6 недель до 15 недель для первой дозы, от 16 недель до 32 недель  для второй дозы Ротавирусной вакцины
+ARM	Armenia	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	W16	От 6 недель до 15 недель для первой дозы, от 16 недель до 32 недель  для второй дозы Ротавирусной вакцины
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL	Y26-Y30	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	ADULTS	Adults	NATIONAL	Y36-Y40	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	ADULTS	Adults	NATIONAL	Y46-Y50	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	4	ADULTS	Adults	NATIONAL	Y56-Y60	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	5	ADULTS	Adults	NATIONAL	Y66-Y70	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	6	ADULTS	Adults	NATIONAL	Y76-Y80	Женщины и мужчины от 26 лет через каждые 10 лет
+ARM	Armenia	EURO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y15-Y16	Лицам с 15 лет до 25 лет, с 26 лет получают только АДС-М
+ARM	Armenia	EURO	2023	TULAREMIA	Tularemia vaccine	1		General/routine	NATIONAL	Y17	только юноши допризывного возраста 17 лет и лицам с повышенным риском заболевания и по эпидпоказаниям с 7-лет
+ARM	Armenia	EURO	2023	TULAREMIA	Tularemia vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	>=Y7	только юноши допризывного возраста 17 лет и лицам с повышенным риском заболевания и по эпидпоказаниям с 7-лет
+ATG	Antigua and Barbuda	AMRO	2023	DT	DT (Tetanus toxoid and diphtheria, children's dose) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y5	5yrs
+ATG	Antigua and Barbuda	AMRO	2023	DTWP	DTwP (Whole cell) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	M18
+ATG	Antigua and Barbuda	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	
+ATG	Antigua and Barbuda	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M4	
+ATG	Antigua and Barbuda	AMRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M6	
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	HW	Health workers	NATIONAL	1st contact	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	HW	Health workers	NATIONAL	+M1	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	HW	Health workers	NATIONAL	+M6	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	1st contact	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	+M1	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	+M6	Adults who didn't receive their vaccine as infants, dialysis patients, hospital staff, medical and nursing students
+ATG	Antigua and Barbuda	AMRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	infants within the first 24 hours of birth
+ATG	Antigua and Barbuda	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	1	BOTH	HPV administered to females and males	NATIONAL	Y9-Y13	females and males; aged 9-13 years x2 doses, aged 14-26 years x3 doses (+Y1 for older age group)
+ATG	Antigua and Barbuda	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	2	BOTH	HPV administered to females and males	NATIONAL	+M6	females and males; aged 9-13 years x2 doses, aged 14-26 years x3 doses (+Y1 for older age group)
+ATG	Antigua and Barbuda	AMRO	2023	HPV4	HPV-4 (Human Papilloma Virus 4-valent) vaccine	3	BOTH	HPV administered to females and males	NATIONAL	+Y1	females and males; aged 9-13 years x2 doses, aged 14-26 years x3 doses (+Y1 for older age group)
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>Y18	and older persons
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-M35	
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	2		General/routine	NATIONAL	>=Y3	
+ATG	Antigua and Barbuda	AMRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+ATG	Antigua and Barbuda	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M2	
+ATG	Antigua and Barbuda	AMRO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M4	
+ATG	Antigua and Barbuda	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+ATG	Antigua and Barbuda	AMRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	M18	
+ATG	Antigua and Barbuda	AMRO	2023	OPV	OPV (Oral polio vaccine)	1		General/routine	NATIONAL	M6	
+ATG	Antigua and Barbuda	AMRO	2023	OPV	OPV (Oral polio vaccine)	2		General/routine	NATIONAL	M18	
+ATG	Antigua and Barbuda	AMRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	Y5	
+ATG	Antigua and Barbuda	AMRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	Y15	
+ATG	Antigua and Barbuda	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	M2	sickle cell disease
+ATG	Antigua and Barbuda	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2	RISKGROUPS	Risk group(s)	NATIONAL	M4	sickle cell disease
+ATG	Antigua and Barbuda	AMRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	M6	sickle cell disease
+ATG	Antigua and Barbuda	AMRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	>=Y2	Vaccine given to risk groups >=2 as recommended by the doctor via medical Benefits (eg those with sickle cell disease diabetes ect)
+ATG	Antigua and Barbuda	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL	Y25	
+ATG	Antigua and Barbuda	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y15	
+ATG	Antigua and Barbuda	AMRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+ATG	Antigua and Barbuda	AMRO	2023	VARICELLA	Varicella vaccine	1		General/routine	NATIONAL	Y3-Y5	
+ATG	Antigua and Barbuda	AMRO	2023	YF	YF (Yellow fever) vaccine	1	TRAVELLERS	Travellers	NATIONAL	1st contact	Travellers
+AUS	Australia	WPRO	2023	DTAP	DTaP (acellular) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	
+AUS	Australia	WPRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1		General/routine	NATIONAL	M2	
+AUS	Australia	WPRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2		General/routine	NATIONAL	M4	
+AUS	Australia	WPRO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	3		General/routine	NATIONAL	M6	
+AUS	Australia	WPRO	2023	DTAPIPV	DTaP-IPV (acellular) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y4	
+AUS	Australia	WPRO	2023	HEPA_PEDIATRIC	Pediatric Hepatitis A vaccine	1	RISKGROUPS	Risk group(s)	SUBNATIONAL	M18	Aboriginal and Torres Strait Islander people in Queensland, Northern Territory, Western Australia and South Australia
+AUS	Australia	WPRO	2023	HEPA_PEDIATRIC	Pediatric Hepatitis A vaccine	2	RISKGROUPS	Risk group(s)	SUBNATIONAL	Y4	Aboriginal and Torres Strait Islander people in Queensland, Northern Territory, Western Australia and South Australia
+AUS	Australia	WPRO	2023	HEPB_ADULT	Adult Hepatitis B vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	>=Y19	Refugee and humanitarian entrants
+AUS	Australia	WPRO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	
+AUS	Australia	WPRO	2023	HIB	Hib (Haemophilus influenzae type B) vaccine	4		General/routine	NATIONAL	M18	
+AUS	Australia	WPRO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	1	BOTH	HPV administered to females and males	NATIONAL	Y12-Y13	Single dose, school grade 7 or age equivalent, all genders
+AUS	Australia	WPRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>=Y65	
+AUS	Australia	WPRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		
+AUS	Australia	WPRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		
+AUS	Australia	WPRO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conidtions, residents living in long-term care facilities
+AUS	Australia	WPRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-Y5	
+AUS	Australia	WPRO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+AUS	Australia	WPRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	M12	
+AUS	Australia	WPRO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	2		General/routine	NATIONAL	Y14-Y16	
+AUS	Australia	WPRO	2023	MEN_B	Meningococcal B vaccine	1	RISKGROUPS	Risk group(s)	SUBNATIONAL	M2	Aboriginal and Torres Strait Islander children. 3rd dose at M6 given to Aboriginal and Torres Strait Islander children with specified medical risk conditions
+AUS	Australia	WPRO	2023	MEN_B	Meningococcal B vaccine	2	RISKGROUPS	Risk group(s)	SUBNATIONAL	M4	Aboriginal and Torres Strait Islander children. 3rd dose at M6 given to Aboriginal and Torres Strait Islander children with specified medical risk conditions
+AUS	Australia	WPRO	2023	MEN_B	Meningococcal B vaccine	3	RISKGROUPS	Risk group(s)	SUBNATIONAL	M6	Aboriginal and Torres Strait Islander children. 3rd dose at M6 given to Aboriginal and Torres Strait Islander children with specified medical risk conditions
+AUS	Australia	WPRO	2023	MEN_B	Meningococcal B vaccine	4	RISKGROUPS	Risk group(s)	SUBNATIONAL	M12	Aboriginal and Torres Strait Islander children. 3rd dose at M6 given to Aboriginal and Torres Strait Islander children with specified medical risk conditions
+AUS	Australia	WPRO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+AUS	Australia	WPRO	2023	MMRV	MMRV (Measles, mumps, rubella and varicella) vaccine	2		General/routine	NATIONAL	M18	
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	ADULTS	Adults	NATIONAL	>=Y70	<=Y70 given to adults 70 years and over (not including Aboriginal and Torres Strait Islander adults).
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M12	M12 dose may be 4th dose if M6 dose is administered to risk groups or for Aboriginal and Torres Strait Islander children in four regions (Queensland, Northern Territory, Western Australia and South Australia)
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		All children medically at risk
+AUS	Australia	WPRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3	RISKGROUPS	Risk group(s)	NATIONAL	M6	M6 given to Aboriginal and Torres Strait Islander children in four regions (Queensland, Northern Territory, Western Australia and South Australia)
+AUS	Australia	WPRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	ADULTS	Adults	NATIONAL	>=Y50	>=Y50 for Aboriginal and Torres Strait Islander adults (Indigenous adults)
+AUS	Australia	WPRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1		General/routine	SUBNATIONAL	Y4	Aboriginal and Torres Strait Islander children in four regions (Western Australia, Northern Territory, South Australia, Queensland)
+AUS	Australia	WPRO	2023	PPV23	PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL	Y4	Y4 for all children with specified medical risk conditions
+AUS	Australia	WPRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	M2	
+AUS	Australia	WPRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M4	
+AUS	Australia	WPRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	6	B_ADO_W	General/routine	NATIONAL	Y12-Y13	
+AUS	Australia	WPRO	2023	TDAP_S	Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+AUS	Australia	WPRO	2023	ZOSTER	Shingles (Herpes zoster for older adults) vaccine	1	ADULTS	Adults	NATIONAL	Y70-Y79	and includes time limited catch up program for 71-79 year olds until 31 Oct. 2023
+AUS	Australia	WPRO	2023	ZOSTER	Shingles (Herpes zoster for older adults) vaccine	2	CATCHUP_A	Catch-up adults	NATIONAL	Y71-Y79	Time limited catch up program for 71-79 year olds until 31 Oct. 2023
+AUT	Austria	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	1		General/routine	NATIONAL	M2	
+AUT	Austria	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	2		General/routine	NATIONAL	M4	
+AUT	Austria	EURO	2023	DTAPHIBHEPBIPV	DTaP-Hib-HepB-IPV (acellular) vaccine	3		General/routine	NATIONAL	M10-M11	
+AUT	Austria	EURO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1	CATCHUP_C	Catch-up children	NATIONAL	Y7-Y15	Free catch up until Y14
+AUT	Austria	EURO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	1	CATCHUP_A	Catch-up adults	NATIONAL	<Y21	Females and males; free catch up until Y21 sing 01.02.2023
+AUT	Austria	EURO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	1	CATCHUP_C	Catch-up children	NATIONAL	<Y21	Females and males; free catch up until Y21 sing 01.02.2023
+AUT	Austria	EURO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	1	BOTH	HPV administered to females and males	NATIONAL	Y9	Females and males
+AUT	Austria	EURO	2023	HPV9	HPV-9 (Human Papilloma Virus 9-valent) vaccine	2	BOTH	HPV administered to females and males	NATIONAL	+M6	Females and males
+AUT	Austria	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>Y18	and older persons
+AUT	Austria	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+AUT	Austria	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+AUT	Austria	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions, residents living in long-term care facilities, other groups
+AUT	Austria	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	>=M6	
+AUT	Austria	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	2		General/routine	NATIONAL	>=M6	
+AUT	Austria	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+AUT	Austria	EURO	2023	MEN_ACYW_135CONJ	Meningococcal ACYW conjugate vaccine	1		General/routine	NATIONAL	Y10-Y13	
+AUT	Austria	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1	CATCHUP_A	Catch-up adults	NATIONAL		Catch-up for everybody regardless of age
+AUT	Austria	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1	CATCHUP_C	Catch-up children	NATIONAL		Catch-up for everybody regardless of age
+AUT	Austria	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	+M3	
+AUT	Austria	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M9	
+AUT	Austria	EURO	2023	PCV10	PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine	1		General/routine	NATIONAL	M2	
+AUT	Austria	EURO	2023	PCV10	PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine	2		General/routine	NATIONAL	M4	
+AUT	Austria	EURO	2023	PCV10	PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine	3		General/routine	NATIONAL	M12-M14	
+AUT	Austria	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	W6	
+AUT	Austria	EURO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	M2	
+AUT	Austria	EURO	2023	TDAP_S_IPV	Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine	4	B_CHILD_W	General/routine	NATIONAL	Y6-Y8	
+AZE	Azerbaijan	EURO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	час 12
+AZE	Azerbaijan	EURO	2023	DT	DT (Tetanus toxoid and diphtheria, children's dose) vaccine	5	B_CHILD_W	General/routine	NATIONAL	Y6	
+AZE	Azerbaijan	EURO	2023	DTWP	DTwP (Whole cell) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	
+AZE	Azerbaijan	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	M2	
+AZE	Azerbaijan	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	M3	
+AZE	Azerbaijan	EURO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	M4	
+AZE	Azerbaijan	EURO	2023	HEPB_PEDIATRIC	Pediatric Hepatitis B vaccine	1		General/routine	NATIONAL	B	час 12
+AZE	Azerbaijan	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	ADULTS	Adults	NATIONAL	>=Y65	
+AZE	Azerbaijan	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	HW	Health workers	NATIONAL		Health and care workers
+AZE	Azerbaijan	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	PW	Pregnant women	NATIONAL		Pregnant women
+AZE	Azerbaijan	EURO	2023	INFLUENZA_ADULT	Adult seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Adults with chronic conditions
+AZE	Azerbaijan	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1		General/routine	NATIONAL	M6-Y18	
+AZE	Azerbaijan	EURO	2023	INFLUENZA_PEDIATRIC	Pediatric seasonal influenza vaccine	1	RISKGROUPS	Risk group(s)	NATIONAL		Children with chronic conditions
+AZE	Azerbaijan	EURO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	M3	
+AZE	Azerbaijan	EURO	2023	IPV	IPV (Inactivated polio vaccine)	2		General/routine	NATIONAL	M6	
+AZE	Azerbaijan	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	1		General/routine	NATIONAL	M12	
+AZE	Azerbaijan	EURO	2023	MMR	MMR (Measles, mumps and rubella) vaccine	2		General/routine	NATIONAL	Y6	
+AZE	Azerbaijan	EURO	2023	OPV	OPV (Oral polio vaccine)	1		General/routine	NATIONAL	M2	
+AZE	Azerbaijan	EURO	2023	OPV	OPV (Oral polio vaccine)	2		General/routine	NATIONAL	M3	
+AZE	Azerbaijan	EURO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	M4	
+AZE	Azerbaijan	EURO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	M18	
+AZE	Azerbaijan	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	M2	
+AZE	Azerbaijan	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	M4	
+AZE	Azerbaijan	EURO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	M6	
+AZE	Azerbaijan	EURO	2023	VITAMINA	Vitamin A supplements	1		General/routine	NATIONAL	M12	
+AZE	Azerbaijan	EURO	2023	VITAMINA	Vitamin A supplements	2		General/routine	NATIONAL	M18	
+BDI	Burundi	AFRO	2023	BCG	BCG (Baccille Calmette Guérin) vaccine	1		General/routine	NATIONAL	B	naissances vivantes
+BDI	Burundi	AFRO	2023	DTWP	DTwP (Whole cell) vaccine	4	B_2YL_W	General/routine	NATIONAL	M18	12-23 mois
+BDI	Burundi	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	1		General/routine	NATIONAL	W6	0-11 mois
+BDI	Burundi	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	2		General/routine	NATIONAL	W10	0-11 mois
+BDI	Burundi	AFRO	2023	DTWPHIBHEPB	DTwP-Hib-HepB (Whole cell) vaccine	3		General/routine	NATIONAL	W14	0-11 mois
+BDI	Burundi	AFRO	2023	IPV	IPV (Inactivated polio vaccine)	1		General/routine	NATIONAL	W14	0-11 mois
+BDI	Burundi	AFRO	2023	MR	MR (Measles and rubella) vaccine	1		General/routine	NATIONAL	M9	0-23 mois
+BDI	Burundi	AFRO	2023	MR	MR (Measles and rubella) vaccine	2		General/routine	NATIONAL	M18	0-23 mois
+BDI	Burundi	AFRO	2023	OPV	OPV (Oral polio vaccine)	1		General/routine	NATIONAL	B	0-11 mois
+BDI	Burundi	AFRO	2023	OPV	OPV (Oral polio vaccine)	2		General/routine	NATIONAL	W6	0-11 mois
+BDI	Burundi	AFRO	2023	OPV	OPV (Oral polio vaccine)	3		General/routine	NATIONAL	W10	0-11 mois
+BDI	Burundi	AFRO	2023	OPV	OPV (Oral polio vaccine)	4		General/routine	NATIONAL	W14	0-11 mois
+BDI	Burundi	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	1		General/routine	NATIONAL	W6	0-11 mois
+BDI	Burundi	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	2		General/routine	NATIONAL	W10	0-11 mois
+BDI	Burundi	AFRO	2023	PCV13	PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine	3		General/routine	NATIONAL	W14	0-11 mois
+BDI	Burundi	AFRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	1		General/routine	NATIONAL	W6	0-11 mois
+BDI	Burundi	AFRO	2023	ROTAVIRUS_1	RV-1 (Rotavirus 1-valent) vaccine	2		General/routine	NATIONAL	W10	0-11 mois
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	2	ADULTS	Adults	NATIONAL	+M1	1er contact grossesse - femmes en âge de procrées
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	3	ADULTS	Adults	NATIONAL	+M6	1er contact grossesse - femmes en âge de procrées
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	4	ADULTS	Adults	NATIONAL	+Y1	1er contact grossesse - femmes en âge de procrées
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	5	ADULTS	Adults	NATIONAL	+Y1	1er contact grossesse - femmes en âge de procrées
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	ADULTS	Adults	NATIONAL	1st contact	1er contact grossesse - femmes en âge de procrées
+BDI	Burundi	AFRO	2023	TD_S	Td (Tetanus toxoid and diphtheria for older children and adults) vaccine	1	PW	Pregnant women	NATIONAL	1st contact	1er contact grossesse - femmes en âge de procrées
